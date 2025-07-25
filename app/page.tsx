@@ -77,12 +77,12 @@ export default function SubmitFormPage() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">Nơi tạm trú mới (không bắt buộc)</label>
+            <label className="block text-sm font-medium text-gray-700 mb-1">Nơi tạm trú mới (nhập theo dữ liệu hiện trên Căn cước điện tử)</label>
             <input name="temporaryAddress" value={formData.temporaryAddress} onChange={handleChange} className="w-full px-3 py-2 border rounded" />
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">Nơi ở hiện tại (không bắt buộc)</label>
+            <label className="block text-sm font-medium text-gray-700 mb-1">Nơi ở hiện tại (nhập theo dữ liệu hiện trên Căn cước điện tử)</label>
             <input name="currentAddress" value={formData.currentAddress} onChange={handleChange} className="w-full px-3 py-2 border rounded" />
           </div>
 
