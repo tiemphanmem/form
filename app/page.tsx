@@ -195,8 +195,10 @@ export default function SubmitFormPage() {
                   className="hidden"
                 />
               </label>
+              {imageFront && (
+                <p className="mt-1 text-sm text-gray-500">Đã chọn: {imageFront.name}</p>
+              )}
             </div>
-
 
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
@@ -212,9 +214,12 @@ export default function SubmitFormPage() {
                   className="hidden"
                 />
               </label>
+              {imageBack && (
+                <p className="mt-1 text-sm text-gray-500">Đã chọn: {imageBack.name}</p>
+              )}
             </div>
-
           </div>
+
 
           <button type="submit" disabled={loading} className="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 w-full">
             {loading ? 'Đang gửi...' : 'Gửi thông tin'}
