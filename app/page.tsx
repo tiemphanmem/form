@@ -185,31 +185,35 @@ export default function SubmitFormPage() {
               <label className="block text-sm font-medium text-gray-700 mb-1">
                 Ảnh đính kèm <span className="text-red-500 font-semibold">(Mặt trước CCCD)</span>
               </label>
-              <div className="flex items-center gap-4 border rounded-lg px-4 py-3 bg-white shadow-sm">
+              <label className="flex items-center gap-2 border rounded-lg px-4 py-3 bg-white shadow-sm cursor-pointer hover:bg-gray-50">
                 <UploadCloud className="text-indigo-600" size={20} />
+                <span className="text-sm text-gray-700">Chọn ảnh</span>
                 <input
                   type="file"
                   accept="image/*"
                   onChange={handleImageFrontChange}
-                  className="flex-1 text-sm text-gray-700 file:hidden focus:outline-none"
+                  className="hidden"
                 />
-              </div>
+              </label>
             </div>
+
 
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-1">
                 Ảnh đính kèm <span className="text-red-500 font-semibold">(Mặt sau CCCD)</span>
               </label>
-              <div className="flex items-center gap-4 border rounded-lg px-4 py-3 bg-white shadow-sm">
+              <label className="flex items-center gap-2 border rounded-lg px-4 py-3 bg-white shadow-sm cursor-pointer hover:bg-gray-50">
                 <UploadCloud className="text-indigo-600" size={20} />
+                <span className="text-sm text-gray-700">Chọn ảnh</span>
                 <input
                   type="file"
                   accept="image/*"
                   onChange={handleImageBackChange}
-                  className="flex-1 text-sm text-gray-700 file:hidden focus:outline-none"
+                  className="hidden"
                 />
-              </div>
+              </label>
             </div>
+
           </div>
 
           <button type="submit" disabled={loading} className="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 w-full">
