@@ -136,7 +136,7 @@ export default function SubmitFormPage() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">Địa chỉ cũ</label>
+            <label className="block text-sm font-medium text-gray-700 mb-1">Địa chỉ thường trú cũ</label>
             <div className="space-y-2">
               <label className="inline-flex items-center">
                 <input type="checkbox" checked={useManualInput} onChange={() => setUseManualInput(!useManualInput)} className="mr-2" />
@@ -176,7 +176,7 @@ export default function SubmitFormPage() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-1">Địa chỉ mới</label>
+            <label className="block text-sm font-medium text-gray-700 mb-1">Địa chỉ thường trú mới</label>
             <input name="newAddress" value={formData.newAddress} onChange={handleChange} required className="w-full px-3 py-2 border rounded" />
           </div>
 
