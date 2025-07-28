@@ -67,8 +67,9 @@ export default function FormsPage() {
                   </button>
                 </td>
                 <td className="py-2 px-4 text-gray-500 text-xs">
-                  {new Date(form.createdAt.$date).toLocaleString()}
+                  {new Date((form.createdAt as any).$date).toLocaleString()}
                 </td>
+
               </tr>
             ))}
           </tbody>
