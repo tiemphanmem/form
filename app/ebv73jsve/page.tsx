@@ -56,9 +56,7 @@ export default function FormsPage() {
                 <td className="py-2 px-4">{form.dob}</td>
                 <td className="py-2 px-4">{form.citizenId}</td>
                 <td className="py-2 px-4">
-                  {[form.newAddress, form.temporaryAddress, form.currentAddress]
-                    .filter(Boolean)
-                    .join(', ')}
+                  {form.newAddress}
                 </td>
                 <td className="py-2 px-4">
                   <button
@@ -69,7 +67,7 @@ export default function FormsPage() {
                   </button>
                 </td>
                 <td className="py-2 px-4 text-gray-500 text-xs">
-                  {new Date(form.createdAt).toLocaleString()}
+                  {new Date(form.createdAt.$date).toLocaleString()}
                 </td>
               </tr>
             ))}
