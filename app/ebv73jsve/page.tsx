@@ -4,6 +4,11 @@ import { useEffect, useState } from 'react';
 import { Dialog, Transition } from '@headlessui/react';
 import { Fragment } from 'react';
 import { Eye, MapPin, User, Calendar, BadgePlus } from 'lucide-react';
+import * as XLSX from 'xlsx';
+import ExcelJS from 'exceljs';
+import { saveAs } from 'file-saver';
+
+import JSZip from 'jszip';
 
 interface Form {
   _id: string;
@@ -20,7 +25,55 @@ interface Form {
 export default function FormsPage() {
   const [forms, setForms] = useState<Form[]>([]);
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
+  const exportToExcel = async () => {
+    const workbook = new ExcelJS.Workbook();
+    const worksheet = workbook.addWorksheet('Forms');
 
+    worksheet.columns = [
+      { header: 'STT', key: 'index', width: 5 },
+      { header: 'Họ tên', key: 'fullName', width: 25 },
+      { header: 'Ngày sinh', key: 'dob', width: 15 },
+      { header: 'CCCD', key: 'citizenId', width: 20 },
+      { header: 'Địa chỉ', key: 'address', width: 30 },
+      { header: 'Gửi lúc', key: 'createdAt', width: 25 },
+      { header: 'Ảnh', key: 'image', width: 40 },
+    ];
+
+    forms.forEach((form, index) => {
+      worksheet.addRow({
+        index: index + 1,
+        fullName: form.fullName,
+        dob: form.dob,
+        citizenId: form.citizenId,
+        address: [form.newAddress, form.temporaryAddress, form.currentAddress].filter(Boolean).join(', '),
+        createdAt: new Date((form.createdAt as any).$date || form.createdAt).toLocaleString(),
+        image: form.vnidImage,
+      });
+    });
+
+    const buffer = await workbook.xlsx.writeBuffer();
+    const blob = new Blob([buffer], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
+    saveAs(blob, 'forms.xlsx');
+  };
+
+
+  const downloadAllImages = async () => {
+    const zip = new JSZip();
+
+    for (const form of forms) {
+      try {
+        const response = await fetch(form.vnidImage);
+        const blob = await response.blob();
+        const fileName = `${form.fullName.replace(/\s+/g, '_')}_${form.citizenId}.jpg`;
+        zip.file(fileName, blob);
+      } catch (err) {
+        console.error('Failed to fetch image:', form.vnidImage, err);
+      }
+    }
+
+    const content = await zip.generateAsync({ type: 'blob' });
+    saveAs(content, 'cccd_images.zip');
+  };
   useEffect(() => {
     fetch('/data/forms.json')
       .then((res) => res.json())
@@ -33,6 +86,20 @@ export default function FormsPage() {
       <h1 className="text-3xl font-bold text-center text-indigo-800 mb-6">
         Danh sách biểu mẫu CCCD
       </h1>
+      <div className="flex justify-end mb-4 gap-2">
+        <button
+          onClick={exportToExcel}
+          className="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-500 text-sm"
+        >
+          📤 Xuất Excel
+        </button>
+        <button
+          onClick={downloadAllImages}
+          className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 text-sm"
+        >
+          📦 Tải tất cả ảnh
+        </button>
+      </div>
 
       {/* Desktop Table */}
       <div className="hidden md:block overflow-x-auto">
