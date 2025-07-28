@@ -1,0 +1,3816 @@
+[{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12811"
+  },
+  "userCode": "TSC0001",
+  "fullName": "Huỳnh Trung Quang",
+  "citizenId": "049057012315"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12812"
+  },
+  "userCode": "TSC0002",
+  "fullName": "Huỳnh Nam Anh",
+  "citizenId": "048097007100"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12813"
+  },
+  "userCode": "TSC0003",
+  "fullName": "Đào Duy Tuấn Hùng",
+  "citizenId": "066065004717"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12814"
+  },
+  "userCode": "TSC0189",
+  "fullName": "Phan Đình Thanh",
+  "citizenId": "048080003449"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12815"
+  },
+  "userCode": "TSC0004",
+  "fullName": "Võ Văn Khải",
+  "citizenId": "092070005123"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12816"
+  },
+  "userCode": "TSC0864",
+  "fullName": "Hoàng Khánh Trang",
+  "citizenId": "048195004031"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12817"
+  },
+  "userCode": "TSC0671",
+  "fullName": "Nguyễn Quỳnh Hoa",
+  "citizenId": "060196006014"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12818"
+  },
+  "userCode": "TSC0086",
+  "fullName": "Nguyễn Phan Kiều Vân",
+  "citizenId": "092186002672"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12819"
+  },
+  "userCode": "TSC0552",
+  "fullName": "Nguyễn Thị Hường",
+  "citizenId": "036184020361",
+  "form": {
+    "$oid": "6884587424cf1a6d06819741"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:24:20.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1281a"
+  },
+  "userCode": "TSC0913",
+  "fullName": "Đỗ Thị Mai Thư",
+  "citizenId": "092190006403"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1281b"
+  },
+  "userCode": "TSC0631",
+  "fullName": "Hoàng Thanh Thủy",
+  "citizenId": "092191010888"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1281c"
+  },
+  "userCode": "TSC0919",
+  "fullName": "Nguyễn Kiều Nguyệt Trang",
+  "citizenId": "092188000007"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1281d"
+  },
+  "userCode": "TSC0138",
+  "fullName": "Đỗ Thị Băng Trâm",
+  "citizenId": "092189002272"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1281e"
+  },
+  "userCode": "TSC0545",
+  "fullName": "Dương Văn Hiệp",
+  "citizenId": "092075012407"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1281f"
+  },
+  "userCode": "TSC0922",
+  "fullName": "Nguyễn Chí Tâm",
+  "citizenId": "091082000002"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12820"
+  },
+  "userCode": "TSC0546",
+  "fullName": "Nguyễn Thị Hiếu",
+  "citizenId": "001181039457"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12821"
+  },
+  "userCode": "TSC0305",
+  "fullName": "Nguyễn Thị Kim Loan",
+  "citizenId": "001186050319"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12822"
+  },
+  "userCode": "TSC0199",
+  "fullName": "Vương Thị Mai Tâm",
+  "citizenId": "089166000118"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12823"
+  },
+  "userCode": "TSC0400",
+  "fullName": "Mai Vũ Linh",
+  "citizenId": "096090007853"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12824"
+  },
+  "userCode": "TSC0022",
+  "fullName": "Đặng Thị Thi",
+  "citizenId": "087175015875"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12825"
+  },
+  "userCode": "TSC0607",
+  "fullName": "Nguyễn Hoàng Sang",
+  "citizenId": "092089013193"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12826"
+  },
+  "userCode": "TSC0744",
+  "fullName": "Châu Bửu Nhi",
+  "citizenId": "092185002268"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12827"
+  },
+  "userCode": "TSC0740",
+  "fullName": "Lê Hồ Hải Yến",
+  "citizenId": "093301007605"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12828"
+  },
+  "userCode": "TSC0375",
+  "fullName": "Nguyễn Hoàng Nam",
+  "citizenId": "092091009912"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12829"
+  },
+  "userCode": "TSC0641",
+  "fullName": "Nguyễn Thị Chí Hiếu",
+  "citizenId": "092180002344"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1282a"
+  },
+  "userCode": "TSC0362",
+  "fullName": "Trần Thị Tươi",
+  "citizenId": "096187000276"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1282b"
+  },
+  "userCode": "TSC0651",
+  "fullName": "Lê Thị Tuyết Mai",
+  "citizenId": "072197007049"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1282c"
+  },
+  "userCode": "TSC0110",
+  "fullName": "Nguyễn Kiều Diễm",
+  "citizenId": "096190017630"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1282d"
+  },
+  "userCode": "TSC0042",
+  "fullName": "Nguyễn Thị Thu Tâm",
+  "citizenId": "086176011488"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1282e"
+  },
+  "userCode": "TSC0711",
+  "fullName": "Nguyễn Thành Nên",
+  "citizenId": "083090008638"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1282f"
+  },
+  "userCode": "TSC0475",
+  "fullName": "Phạm Huỳnh Thảo Trân",
+  "citizenId": "092301003137"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12830"
+  },
+  "userCode": "TSC0695",
+  "fullName": "Đinh Quốc Thái",
+  "citizenId": "094088019074"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12831"
+  },
+  "userCode": "TSC0679",
+  "fullName": "Nguyễn Đăng Thành Luân",
+  "citizenId": "091092009557"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12832"
+  },
+  "userCode": "TSC0071",
+  "fullName": "Trần Thị Diệu Linh",
+  "citizenId": "094180000015"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12833"
+  },
+  "userCode": "TSC0299",
+  "fullName": "Phạm Thanh Nhân",
+  "citizenId": "087087018209"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12834"
+  },
+  "userCode": "TSC0461",
+  "fullName": "Lê Thị Thanh Thảo",
+  "citizenId": "092189004384"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12835"
+  },
+  "userCode": "TSC0642",
+  "fullName": "Nguyễn Thị Tuyết Trinh",
+  "citizenId": "094197001482"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12836"
+  },
+  "userCode": "TSC0363",
+  "fullName": "Nguyễn Thị Xuân Huệ",
+  "citizenId": "093199003589"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12837"
+  },
+  "userCode": "TSC0435",
+  "fullName": "Lương Nhật Vân Anh",
+  "citizenId": "092195009659"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12838"
+  },
+  "userCode": "TSC0827",
+  "fullName": "Lê Thị Thúy Diểm",
+  "citizenId": "084300005706"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12839"
+  },
+  "userCode": "TSC0923",
+  "fullName": "Nguyễn Trần Lê",
+  "citizenId": "095304001793"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1283a"
+  },
+  "userCode": "TSC0906",
+  "fullName": "Lê Thị Thanh Mai",
+  "citizenId": "089301010683"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1283b"
+  },
+  "userCode": "TSC0132",
+  "fullName": "Thiều Thanh Tùng",
+  "citizenId": "094086009430"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1283c"
+  },
+  "userCode": "TSC0924",
+  "fullName": "Trần Quốc Vũ",
+  "citizenId": "092090002159"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1283d"
+  },
+  "userCode": "TSC0292",
+  "fullName": "Nguyễn Hoàng Thọ",
+  "citizenId": "092080002553"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1283e"
+  },
+  "userCode": "TSC0704",
+  "fullName": "Nguyễn Hồng Lợi",
+  "citizenId": "092088016230"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1283f"
+  },
+  "userCode": "TSC0168",
+  "fullName": "Nguyễn Thị Oanh",
+  "citizenId": "096179010821"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12840"
+  },
+  "userCode": "TSC0079",
+  "fullName": "Mai Yến Thi",
+  "citizenId": "084183005400"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12841"
+  },
+  "userCode": "TSC0115",
+  "fullName": "Dương Thị Phường",
+  "citizenId": "091176004370"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12842"
+  },
+  "userCode": "TSC0136",
+  "fullName": "Lê Thị Cẩm Huệ",
+  "citizenId": "092191001132"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12843"
+  },
+  "userCode": "TSC0424",
+  "fullName": "Lê Thị Liểu",
+  "citizenId": "093182002558"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12844"
+  },
+  "userCode": "TSC0932",
+  "fullName": "Phạm Liên Thanh",
+  "citizenId": "092183002216"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12845"
+  },
+  "userCode": "TSC0480",
+  "fullName": "Nguyễn Thị Loan",
+  "citizenId": "092192012026"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12846"
+  },
+  "userCode": "TSC0579",
+  "fullName": "Khưu Văn Tuấn",
+  "citizenId": "094082000179"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12847"
+  },
+  "userCode": "TSC0909",
+  "fullName": "Hà Thị Ngọc Giàu",
+  "citizenId": "092198010336"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12848"
+  },
+  "userCode": "TSC0072",
+  "fullName": "Trần Hoàng Thanh Long",
+  "citizenId": "092072002463"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12849"
+  },
+  "userCode": "TSC0159",
+  "fullName": "Võ Thị Duy Thanh",
+  "citizenId": "082177009302"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1284a"
+  },
+  "userCode": "TSC0182",
+  "fullName": "Lê Thị Khoa",
+  "citizenId": "093197007325"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1284b"
+  },
+  "userCode": "TSC0266",
+  "fullName": "Lê Thị Loan",
+  "citizenId": "094168000031"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1284c"
+  },
+  "userCode": "TSC0899",
+  "fullName": "Nguyễn Thị Thùy Dung",
+  "citizenId": "092190001535"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1284d"
+  },
+  "userCode": "TSC0457",
+  "fullName": "Nguyễn Thị Thúy",
+  "citizenId": "092183006682"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1284e"
+  },
+  "userCode": "TSC0749",
+  "fullName": "Đinh Thị Lài",
+  "citizenId": "092190005082"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1284f"
+  },
+  "userCode": "TSC0804",
+  "fullName": "Phan Quốc Thịnh",
+  "citizenId": "092083016609"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12850"
+  },
+  "userCode": "TSC0805",
+  "fullName": "Nguyễn Văn Đức",
+  "citizenId": "092085001892"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12851"
+  },
+  "userCode": "TSC0554",
+  "fullName": "Phạm Thanh Dũng",
+  "citizenId": "093088003103"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12852"
+  },
+  "userCode": "TSC0925",
+  "fullName": "Phạm Hoàng Chinh",
+  "citizenId": "075090010016",
+  "form": {
+    "$oid": "6886040424cf1a6d06819769"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T10:48:36.560Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12853"
+  },
+  "userCode": "TSC0707",
+  "fullName": "Trần Hữu Đang",
+  "citizenId": "093203007100",
+  "form": {
+    "$oid": "68844fc724cf1a6d06819726"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T03:47:19.994Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12854"
+  },
+  "userCode": "TSC0083",
+  "fullName": "Phạm Ngọc Thường",
+  "citizenId": "094080000143",
+  "form": {
+    "$oid": "6884517e24cf1a6d0681972e"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T03:54:38.305Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12855"
+  },
+  "userCode": "TSC0583",
+  "fullName": "Nguyễn Bá Kiệm",
+  "citizenId": "094087007677"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12856"
+  },
+  "userCode": "TSC0074",
+  "fullName": "Nguyễn Văn Thịnh",
+  "citizenId": "083084010412"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12857"
+  },
+  "userCode": "TSC0076",
+  "fullName": "Nguyễn My Sên",
+  "citizenId": "086087013086"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12858"
+  },
+  "userCode": "TSC0058",
+  "fullName": "Nguyễn Văn Chung",
+  "citizenId": "086083011761"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12859"
+  },
+  "userCode": "TSC0064",
+  "fullName": "Tăng Thị Ngọc Trâm",
+  "citizenId": "080185006705"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1285a"
+  },
+  "userCode": "TSC0615",
+  "fullName": "Phan Hoàng Long",
+  "citizenId": "070093008900"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1285b"
+  },
+  "userCode": "TSC0202",
+  "fullName": "Huỳnh Long Hồ",
+  "citizenId": "092097004537"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1285c"
+  },
+  "userCode": "TSC0640",
+  "fullName": "Huỳnh Mỹ Tiên",
+  "citizenId": "092301005875"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1285d"
+  },
+  "userCode": "TSC0114",
+  "fullName": "Nguyễn Việt Khương",
+  "citizenId": "092089001628"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1285e"
+  },
+  "userCode": "TSC0404",
+  "fullName": "Thạch Thị The Ry",
+  "citizenId": "094300009247"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1285f"
+  },
+  "userCode": "TSC0195",
+  "fullName": "Đặng Vũ Hiệp",
+  "citizenId": "091087009029"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12860"
+  },
+  "userCode": "TSC0862",
+  "fullName": "Võ Ngọc Trường Duy",
+  "citizenId": "082301005266"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12861"
+  },
+  "userCode": "TSC0361",
+  "fullName": "Danh Thanh Long",
+  "citizenId": "093099002026"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12862"
+  },
+  "userCode": "TSC0100",
+  "fullName": "Trần Phước Khanh",
+  "citizenId": "091090022461"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12863"
+  },
+  "userCode": "TSC0764",
+  "fullName": "Nguyễn Hoàng Anh",
+  "citizenId": "091083023733"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12864"
+  },
+  "userCode": "TSC0405",
+  "fullName": "Trần Thị Trâm Anh",
+  "citizenId": "092300005672"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12865"
+  },
+  "userCode": "TSC0293",
+  "fullName": "Lê Mộng Thường",
+  "citizenId": "093198006442"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12866"
+  },
+  "userCode": "TSC0102",
+  "fullName": "Nguyễn Văn Tạo",
+  "citizenId": "096080000101"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12867"
+  },
+  "userCode": "TSC0148",
+  "fullName": "Vương Thị Đan Tâm",
+  "citizenId": "089171007869"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12868"
+  },
+  "userCode": "TSC0300",
+  "fullName": "Nguyễn Phạm Hoài Nam",
+  "citizenId": "095099006933"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12869"
+  },
+  "userCode": "TSC0725",
+  "fullName": "Cao Ngọc Nhiều",
+  "citizenId": "093093001888"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1286a"
+  },
+  "userCode": "TSC0691",
+  "fullName": "Trần Thanh Truyền",
+  "citizenId": "092093008115"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1286b"
+  },
+  "userCode": "TSC0278",
+  "fullName": "Nguyễn Trường Giang",
+  "citizenId": "092085004088"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1286c"
+  },
+  "userCode": "TSC0289",
+  "fullName": "Nguyễn Văn Voi",
+  "citizenId": "086087008172",
+  "form": {
+    "$oid": "6886c44724cf1a6d0681977e"
+  },
+  "updatedAt": {
+    "$date": "2025-07-28T00:28:55.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1286d"
+  },
+  "userCode": "TSC0778",
+  "fullName": "Nguyễn Khải Âu",
+  "citizenId": "091076000025"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1286e"
+  },
+  "userCode": "TSC0838",
+  "fullName": "Trần Văn Dương",
+  "citizenId": "092084007537"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1286f"
+  },
+  "userCode": "TSC0850",
+  "fullName": "Trần Văn Duẫn",
+  "citizenId": "082075020524"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12870"
+  },
+  "userCode": "TSC0067",
+  "fullName": "Trần Quốc Sỹ",
+  "citizenId": "017072005080"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12871"
+  },
+  "userCode": "TSC0883",
+  "fullName": "Lê Hùng Cường",
+  "citizenId": "092089003023"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12872"
+  },
+  "userCode": "TSC0070",
+  "fullName": "Trần Thanh Phong",
+  "citizenId": "092076001775"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12873"
+  },
+  "userCode": "TSC0068",
+  "fullName": "Lê Hoàng Phong",
+  "citizenId": "092078011689"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12874"
+  },
+  "userCode": "TSC0048",
+  "fullName": "Phạm Văn Cõi",
+  "citizenId": "092069011509"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12875"
+  },
+  "userCode": "TSC0051",
+  "fullName": "Trần Văn Út Anh",
+  "citizenId": "092068001699"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12876"
+  },
+  "userCode": "TSC0699",
+  "fullName": "Lê Hùng Mỹ",
+  "citizenId": "092091003616"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12877"
+  },
+  "userCode": "TSC0664",
+  "fullName": "Huỳnh Văn Đức",
+  "citizenId": "092080005537"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12878"
+  },
+  "userCode": "TSC0893",
+  "fullName": "Phan Hoàng Khải",
+  "citizenId": "092200005581"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12879"
+  },
+  "userCode": "TSC0917",
+  "fullName": "Nguyễn Trung Thịnh",
+  "citizenId": "092099000072"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1287a"
+  },
+  "userCode": "TSC0469",
+  "fullName": "Võ Phạm Hùng Mạnh",
+  "citizenId": "092091013130"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1287b"
+  },
+  "userCode": "TSC0090",
+  "fullName": "Nguyễn Thị Kim Yến",
+  "citizenId": "093191001993"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1287c"
+  },
+  "userCode": "TSC0291",
+  "fullName": "Võ Minh Thư",
+  "citizenId": "092198007876"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1287d"
+  },
+  "userCode": "TSC0750",
+  "fullName": "Lưu Thị Ngọc Lợi",
+  "citizenId": "089194019586"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1287e"
+  },
+  "userCode": "TSC0151",
+  "fullName": "Hứa Viết Thái",
+  "citizenId": "038086039066"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1287f"
+  },
+  "userCode": "TSC0928",
+  "fullName": "Tôn Thất Lam Điền",
+  "citizenId": "054073007808"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12880"
+  },
+  "userCode": "TSC0781",
+  "fullName": "Vũ Tuấn Kiệt",
+  "citizenId": "094097012904"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12881"
+  },
+  "userCode": "TSC0145",
+  "fullName": "Nguyễn Vũ Lâm",
+  "citizenId": "092080001033"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12882"
+  },
+  "userCode": "TSC0915",
+  "fullName": "Nhâm Đức Hoàng",
+  "citizenId": "092087000701",
+  "form": {
+    "$oid": "6886d7a524cf1a6d06819782"
+  },
+  "updatedAt": {
+    "$date": "2025-07-28T01:51:33.290Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12883"
+  },
+  "userCode": "TSC0672",
+  "fullName": "Hoàng Hồng Linh",
+  "citizenId": "086092005106"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12884"
+  },
+  "userCode": "TSC0557",
+  "fullName": "Nguyễn Hồng Phúc",
+  "citizenId": "086090009095",
+  "form": {
+    "$oid": "6884607324cf1a6d06819745"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:58:27.438Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12885"
+  },
+  "userCode": "TSC0157",
+  "fullName": "Phạm Hữu Trí",
+  "citizenId": "089092023271"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12886"
+  },
+  "userCode": "TSC0897",
+  "fullName": "Phạm Thanh Phúc",
+  "citizenId": "089099009606"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12887"
+  },
+  "userCode": "TSC0373",
+  "fullName": "Lâm Ngọc Hoàng",
+  "citizenId": "094093017140"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12888"
+  },
+  "userCode": "TSC0820",
+  "fullName": "Trần Ngọc Quân",
+  "citizenId": "048067005611"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12889"
+  },
+  "userCode": "TSC0044",
+  "fullName": "Trần Đức Tuấn",
+  "citizenId": "092073010288"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1288a"
+  },
+  "userCode": "TSC0415",
+  "fullName": "Đinh Lê Ngọc Phúc",
+  "citizenId": "092082003252"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1288b"
+  },
+  "userCode": "TSC0639",
+  "fullName": "Trần Văn Gia Bảo",
+  "citizenId": "093201004916"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1288c"
+  },
+  "userCode": "TSC0035",
+  "fullName": "Dương Văn Lâm",
+  "citizenId": "092073010701"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1288d"
+  },
+  "userCode": "TSC0367",
+  "fullName": "Lê Hữu Trí",
+  "citizenId": "082089003987"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1288e"
+  },
+  "userCode": "TSC0028",
+  "fullName": "Văn Công Phúc",
+  "citizenId": "092067010310"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1288f"
+  },
+  "userCode": "TSC0739",
+  "fullName": "Giang Đăng Linh",
+  "citizenId": "096200007979"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12890"
+  },
+  "userCode": "TSC0143",
+  "fullName": "Nguyễn Văn Nam",
+  "citizenId": "092068004514"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12891"
+  },
+  "userCode": "TSC0224",
+  "fullName": "Trương Minh Tài",
+  "citizenId": "086095005378"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12892"
+  },
+  "userCode": "TSC0858",
+  "fullName": "Nguyễn Phương Vinh",
+  "citizenId": "075091022729"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12893"
+  },
+  "userCode": "TSC0158",
+  "fullName": "Nguyễn Văn Chí",
+  "citizenId": "093066000126"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12894"
+  },
+  "userCode": "TSC0638",
+  "fullName": "Nguyễn Văn Vĩnh",
+  "citizenId": "094201006054"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12895"
+  },
+  "userCode": "TSC0037",
+  "fullName": "Trần Trúc Vinh",
+  "citizenId": "092072008481"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12896"
+  },
+  "userCode": "TSC0121",
+  "fullName": "Đào Hoàng Phong",
+  "citizenId": "094092007877"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12897"
+  },
+  "userCode": "TSC0196",
+  "fullName": "Đào Bá Ngọc",
+  "citizenId": "092073009457"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12898"
+  },
+  "userCode": "TSC0201",
+  "fullName": "Lê Anh Tuấn",
+  "citizenId": "093066001576"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12899"
+  },
+  "userCode": "TSC0656",
+  "fullName": "Nguyễn Chí Thanh",
+  "citizenId": "092201002521"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1289a"
+  },
+  "userCode": "TSC0436",
+  "fullName": "Trần Thanh Nhã",
+  "citizenId": "092085003989"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1289b"
+  },
+  "userCode": "TSC0659",
+  "fullName": "Trần Đức Minh",
+  "citizenId": "092072000834"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1289c"
+  },
+  "userCode": "TSC0657",
+  "fullName": "Quách Văn Ninh",
+  "citizenId": "037081000131"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1289d"
+  },
+  "userCode": "TSC0611",
+  "fullName": "Đặng Văn Chí Linh",
+  "citizenId": "092071008913"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1289e"
+  },
+  "userCode": "TSC0828",
+  "fullName": "Mai Thành Đạt",
+  "citizenId": "091099003902"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1289f"
+  },
+  "userCode": "TSC0873",
+  "fullName": "Văn Công Phước",
+  "citizenId": "086075011588"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a0"
+  },
+  "userCode": "TSC0658",
+  "fullName": "Nguyễn Thái Sơn",
+  "citizenId": "092099003218"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a1"
+  },
+  "userCode": "TSC0376",
+  "fullName": "Huỳnh Chí Cường",
+  "citizenId": "092098003634"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a2"
+  },
+  "userCode": "TSC0787",
+  "fullName": "Nguyễn Anh Tuấn",
+  "citizenId": "040079000394"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a3"
+  },
+  "userCode": "TSC0377",
+  "fullName": "Nguyễn Lương Tráng",
+  "citizenId": "038084053880"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a4"
+  },
+  "userCode": "TSC0605",
+  "fullName": "Trần Văn Hậu",
+  "citizenId": "089200012923"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a5"
+  },
+  "userCode": "TSC0745",
+  "fullName": "Lê Thành Tân",
+  "citizenId": "075093023571"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a6"
+  },
+  "userCode": "TSC0190",
+  "fullName": "Nguyễn Anh",
+  "citizenId": "048082007535"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a7"
+  },
+  "userCode": "TSC0219",
+  "fullName": "Nguyễn Đức Thành",
+  "citizenId": "044084008989"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a8"
+  },
+  "userCode": "TSC0256",
+  "fullName": "Trần Thanh Tuấn",
+  "citizenId": "086089006890"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128a9"
+  },
+  "userCode": "TSC0220",
+  "fullName": "Nguyễn Thành Ngọc",
+  "citizenId": "042089015352"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128aa"
+  },
+  "userCode": "TSC0374",
+  "fullName": "Nguyễn Thành Tựu",
+  "citizenId": "091088018249"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ab"
+  },
+  "userCode": "TSC0383",
+  "fullName": "Trần Vĩnh Lộc",
+  "citizenId": "087084006241"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ac"
+  },
+  "userCode": "TSC0541",
+  "fullName": "Võ Đình Thăng",
+  "citizenId": "025076004991"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ad"
+  },
+  "userCode": "TSC0230",
+  "fullName": "Nguyễn Văn Dương",
+  "citizenId": "040083020682"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ae"
+  },
+  "userCode": "TSC0690",
+  "fullName": "Đồng Văn Cường",
+  "citizenId": "093092007789"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128af"
+  },
+  "userCode": "TSC0211",
+  "fullName": "Lê Văn Thanh",
+  "citizenId": "093089007436",
+  "form": {
+    "$oid": "6884d3fc24cf1a6d06819765"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T13:11:24.373Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b0"
+  },
+  "userCode": "TSC0463",
+  "fullName": "Lê Văn Tới",
+  "citizenId": "092089013766"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b1"
+  },
+  "userCode": "TSC0512",
+  "fullName": "Trần Công Bảo",
+  "citizenId": "092090001777"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b2"
+  },
+  "userCode": "TSC0813",
+  "fullName": "Lê Văn Chung",
+  "citizenId": "087088001835"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b3"
+  },
+  "userCode": "TSC0788",
+  "fullName": "Đoàn Văn Tấn",
+  "citizenId": "092087007622"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b4"
+  },
+  "userCode": "TSC0484",
+  "fullName": "Trần Anh Tuấn",
+  "citizenId": "092203007238"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b5"
+  },
+  "userCode": "TSC0053",
+  "fullName": "Trần Văn Út Em",
+  "citizenId": "092070001258"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b6"
+  },
+  "userCode": "TSC0685",
+  "fullName": "Trần Hữu Lộc",
+  "citizenId": "092079013793"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b7"
+  },
+  "userCode": "TSC0194",
+  "fullName": "Nguyễn Văn Tám",
+  "citizenId": "092068003149"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b8"
+  },
+  "userCode": "TSC0533",
+  "fullName": "Phạm Trịnh Minh Tuấn",
+  "citizenId": "092090010154"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128b9"
+  },
+  "userCode": "TSC0235",
+  "fullName": "Trần Duy Khánh",
+  "citizenId": "093098002795"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ba"
+  },
+  "userCode": "TSC0027",
+  "fullName": "Nguyễn Long Hải",
+  "citizenId": "093072007095"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128bb"
+  },
+  "userCode": "TSC0585",
+  "fullName": "Cao Trung Hậu",
+  "citizenId": "086200006030"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128bc"
+  },
+  "userCode": "TSC0758",
+  "fullName": "Trần Công Hảo",
+  "citizenId": "086097007531"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128bd"
+  },
+  "userCode": "TSC0801",
+  "fullName": "Nguyễn Trị An",
+  "citizenId": "089086020605"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128be"
+  },
+  "userCode": "TSC0719",
+  "fullName": "Nguyễn Văn Vũ",
+  "citizenId": "092079002285"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128bf"
+  },
+  "userCode": "TSC0359",
+  "fullName": "Lê Minh Chiến",
+  "citizenId": "092077014355"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c0"
+  },
+  "userCode": "TSC0933",
+  "fullName": "Nguyễn Văn Thơm",
+  "citizenId": "093099004730"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c1"
+  },
+  "userCode": "TSC0197",
+  "fullName": "Lê Tấn Lợi",
+  "citizenId": "092085005610"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c2"
+  },
+  "userCode": "TSC0809",
+  "fullName": "Nguyễn Thành Sang",
+  "citizenId": "092082012082"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c3"
+  },
+  "userCode": "TSC0276",
+  "fullName": "Lê Hữu Thuận",
+  "citizenId": "092084010903"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c4"
+  },
+  "userCode": "TSC0517",
+  "fullName": "Huỳnh Thiện Nhàn",
+  "citizenId": "092081006899"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c5"
+  },
+  "userCode": "TSC0782",
+  "fullName": "Đặng Thanh Sang",
+  "citizenId": "092093015054"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c6"
+  },
+  "userCode": "TSC0634",
+  "fullName": "Trương Hoàng Nam",
+  "citizenId": "082083016806"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c7"
+  },
+  "userCode": "TSC0227",
+  "fullName": "Nguyễn Văn Vũ",
+  "citizenId": "093081000163"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c8"
+  },
+  "userCode": "TSC0635",
+  "fullName": "Phan Văn Tùng",
+  "citizenId": "087086000021"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128c9"
+  },
+  "userCode": "TSC0752",
+  "fullName": "Khưu Minh Xứng",
+  "citizenId": "094096005194"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ca"
+  },
+  "userCode": "TSC0493",
+  "fullName": "Nguyễn Phú Cường",
+  "citizenId": "092099002771"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128cb"
+  },
+  "userCode": "TSC0757",
+  "fullName": "Lý Anh Huy",
+  "citizenId": "092096004547"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128cc"
+  },
+  "userCode": "TSC0902",
+  "fullName": "Huỳnh Ngọc Thắng",
+  "citizenId": "092094004070"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128cd"
+  },
+  "userCode": "TSC0892",
+  "fullName": "Phạm Thanh Bình",
+  "citizenId": "092098002858"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ce"
+  },
+  "userCode": "TSC0713",
+  "fullName": "Ngô Hữu Trí",
+  "citizenId": "092085015308"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128cf"
+  },
+  "userCode": "TSC0206",
+  "fullName": "Nguyễn Vũ Linh",
+  "citizenId": "092091000895"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d0"
+  },
+  "userCode": "TSC0217",
+  "fullName": "Lê Hoàng Tâm",
+  "citizenId": "087085016498"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d1"
+  },
+  "userCode": "TSC0210",
+  "fullName": "Dương Quốc Thắng",
+  "citizenId": "092088002613"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d2"
+  },
+  "userCode": "TSC0646",
+  "fullName": "Nguyễn Minh Toàn",
+  "citizenId": "092200007517"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d3"
+  },
+  "userCode": "TSC0273",
+  "fullName": "Nguyễn Nhật Minh",
+  "citizenId": "092200005537",
+  "form": {
+    "$oid": "6884545024cf1a6d06819736"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:06:40.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d4"
+  },
+  "userCode": "TSC0654",
+  "fullName": "Lê Thanh Sang",
+  "citizenId": "092099001560",
+  "form": {
+    "$oid": "688465ea24cf1a6d0681974d"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T05:21:46.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d5"
+  },
+  "userCode": "TSC0274",
+  "fullName": "Dương Quốc Duy",
+  "citizenId": "092200009853"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d6"
+  },
+  "userCode": "TSC0884",
+  "fullName": "Nguyễn Chí Hiếu",
+  "citizenId": "092095013306"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d7"
+  },
+  "userCode": "TSC0895",
+  "fullName": "Cao Mạnh Cường",
+  "citizenId": "092083011600"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d8"
+  },
+  "userCode": "TSC0747",
+  "fullName": "Nguyễn Thanh Toàn",
+  "citizenId": "092099000859",
+  "form": {
+    "$oid": "6884772724cf1a6d06819751"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T06:35:19.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128d9"
+  },
+  "userCode": "TSC0345",
+  "fullName": "Nguyễn Thanh Tâm",
+  "citizenId": "092085001991"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128da"
+  },
+  "userCode": "TSC0329",
+  "fullName": "Tô Văn Tiến",
+  "citizenId": "084094001085"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128db"
+  },
+  "userCode": "TSC0489",
+  "fullName": "Nguyễn Văn Cần",
+  "citizenId": "092089012939"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128dc"
+  },
+  "userCode": "TSC0687",
+  "fullName": "Ngô Nhựt Tân",
+  "citizenId": "092091008762"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128dd"
+  },
+  "userCode": "TSC0688",
+  "fullName": "Nguyễn Chí Nguyện",
+  "citizenId": "092097002558"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128de"
+  },
+  "userCode": "TSC0868",
+  "fullName": "Nguyễn Đức Anh",
+  "citizenId": "094091015402"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128df"
+  },
+  "userCode": "TSC0354",
+  "fullName": "Nguyễn Vũ Trường",
+  "citizenId": "092092001835"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e0"
+  },
+  "userCode": "TSC0811",
+  "fullName": "Trần Văn Phúc",
+  "citizenId": "092096000278"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e1"
+  },
+  "userCode": "TSC0871",
+  "fullName": "Phạm Minh Chánh",
+  "citizenId": "086201011255"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e2"
+  },
+  "userCode": "TSC0798",
+  "fullName": "Đinh Văn Hoàng Giang",
+  "citizenId": "086084004684"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e3"
+  },
+  "userCode": "TSC0288",
+  "fullName": "Ngô Thanh Hậu",
+  "citizenId": "092090011708"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e4"
+  },
+  "userCode": "TSC0319",
+  "fullName": "Hồ Nhật Linh",
+  "citizenId": "092091006194"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e5"
+  },
+  "userCode": "TSC0898",
+  "fullName": "Nguyễn Văn Kiên",
+  "citizenId": "092081000905"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e6"
+  },
+  "userCode": "TSC0786",
+  "fullName": "Nguyễn Văn Ngoan",
+  "citizenId": "092085006885"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e7"
+  },
+  "userCode": "TSC0683",
+  "fullName": "Nguyễn Chí Khang",
+  "citizenId": "093203009193"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e8"
+  },
+  "userCode": "TSC0592",
+  "fullName": "Lê Vũ Luân",
+  "citizenId": "095096004922"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128e9"
+  },
+  "userCode": "TSC0934",
+  "fullName": "Trần Thái Ngọc",
+  "citizenId": "092083013528"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ea"
+  },
+  "userCode": "TSC0853",
+  "fullName": "Nguyễn Văn Tiền",
+  "citizenId": "092085004515"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128eb"
+  },
+  "userCode": "TSC0429",
+  "fullName": "Trần Hữu Quang",
+  "citizenId": "042085013117"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ec"
+  },
+  "userCode": "TSC0483",
+  "fullName": "Trầm Hoài Như",
+  "citizenId": "092091005130"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ed"
+  },
+  "userCode": "TSC0731",
+  "fullName": "Đào Quốc Duy",
+  "citizenId": "092086004038"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ee"
+  },
+  "userCode": "TSC0346",
+  "fullName": "Trần Văn Lực",
+  "citizenId": "092089002128"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ef"
+  },
+  "userCode": "TSC0351",
+  "fullName": "Nguyễn Ngọc Bình",
+  "citizenId": "086083001732"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f0"
+  },
+  "userCode": "TSC0521",
+  "fullName": "Lê Hoàng Nghiệp",
+  "citizenId": "092087000329"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f1"
+  },
+  "userCode": "TSC0783",
+  "fullName": "Dương Hoàng Hiếu",
+  "citizenId": "093200000456"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f2"
+  },
+  "userCode": "TSC0349",
+  "fullName": "Lý Dũng",
+  "citizenId": "092094004648"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f3"
+  },
+  "userCode": "TSC0572",
+  "fullName": "Lê Văn Minh Sang",
+  "citizenId": "092089001247"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f4"
+  },
+  "userCode": "TSC0313",
+  "fullName": "Trần Hoàng Khang",
+  "citizenId": "086091007391"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f5"
+  },
+  "userCode": "TSC0772",
+  "fullName": "Nguyễn Thành Đạt",
+  "citizenId": "092200010144"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f6"
+  },
+  "userCode": "TSC0490",
+  "fullName": "Đào Linh Em",
+  "citizenId": "092202001879"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f7"
+  },
+  "userCode": "TSC0727",
+  "fullName": "Nguyễn Giác Tường",
+  "citizenId": "092200004648"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f8"
+  },
+  "userCode": "TSC0323",
+  "fullName": "Phạm Minh Nhí",
+  "citizenId": "092091003141"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128f9"
+  },
+  "userCode": "TSC0176",
+  "fullName": "Lê Hữu Hiền",
+  "citizenId": "092084006021"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128fa"
+  },
+  "userCode": "TSC0312",
+  "fullName": "Nguyễn Văn Tâm",
+  "citizenId": "092091009143"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128fb"
+  },
+  "userCode": "TSC0218",
+  "fullName": "Lê Văn Quý",
+  "citizenId": "038086003186"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128fc"
+  },
+  "userCode": "TSC0336",
+  "fullName": "Nguyễn Ngọc Huy",
+  "citizenId": "093201000591"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128fd"
+  },
+  "userCode": "TSC0342",
+  "fullName": "Huỳnh Lâm Thọ",
+  "citizenId": "092092002015"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128fe"
+  },
+  "userCode": "TSC0105",
+  "fullName": "Nguyễn Văn Tới",
+  "citizenId": "092080012656",
+  "form": {
+    "$oid": "68862d6724cf1a6d0681976e"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T13:45:11.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea128ff"
+  },
+  "userCode": "TSC0926",
+  "fullName": "Nguyễn Vũ Sơn",
+  "citizenId": "086080013726",
+  "form": {
+    "$oid": "6884853624cf1a6d06819759"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T07:35:18.831Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12900"
+  },
+  "userCode": "TSC0867",
+  "fullName": "Khưu Gia Bảo",
+  "citizenId": "092203002179"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12901"
+  },
+  "userCode": "TSC0586",
+  "fullName": "Võ Thanh Điền",
+  "citizenId": "092088007695"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12902"
+  },
+  "userCode": "TSC0491",
+  "fullName": "Lê Bá Thắng",
+  "citizenId": "038078004948"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12903"
+  },
+  "userCode": "TSC0824",
+  "fullName": "Đặng Hữu Trí",
+  "citizenId": "092090009941"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12904"
+  },
+  "userCode": "TSC0492",
+  "fullName": "Phan Văn Nhiệm",
+  "citizenId": "092082000064"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12905"
+  },
+  "userCode": "TSC0232",
+  "fullName": "Thạch Hiếu",
+  "citizenId": "092093011015"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12906"
+  },
+  "userCode": "TSC0340",
+  "fullName": "Đặng Đình Khương",
+  "citizenId": "092087005488"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12907"
+  },
+  "userCode": "TSC0320",
+  "fullName": "Ngô Văn Oanh",
+  "citizenId": "092096008257"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12908"
+  },
+  "userCode": "TSC0796",
+  "fullName": "Nguyễn Thanh Thiện",
+  "citizenId": "092089002068",
+  "form": {
+    "$oid": "6884adce24cf1a6d06819761"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T10:28:30.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12909"
+  },
+  "userCode": "TSC0348",
+  "fullName": "Lê Duy Khanh",
+  "citizenId": "093099022057"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1290a"
+  },
+  "userCode": "TSC0353",
+  "fullName": "Võ Đông Giang",
+  "citizenId": "092084014830"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1290b"
+  },
+  "userCode": "TSC0721",
+  "fullName": "Nguyễn Chí Ngôn",
+  "citizenId": "093200004675",
+  "form": {
+    "$oid": "6884509c24cf1a6d0681972a"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T03:50:52.479Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1290c"
+  },
+  "userCode": "TSC0458",
+  "fullName": "Nguyễn Thanh Tòng",
+  "citizenId": "092088015280",
+  "form": {
+    "$oid": "6884546824cf1a6d0681973a"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:07:04.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1290d"
+  },
+  "userCode": "TSC0221",
+  "fullName": "Lê Văn Sỷ",
+  "citizenId": "044092015838",
+  "form": {
+    "$oid": "6884544024cf1a6d06819732"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:06:24.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1290e"
+  },
+  "userCode": "TSC0355",
+  "fullName": "Nguyễn Trung Sơn",
+  "citizenId": "092090002622"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1290f"
+  },
+  "userCode": "TSC0584",
+  "fullName": "Huỳnh Văn Thuận",
+  "citizenId": "089096021399"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12910"
+  },
+  "userCode": "TSC0495",
+  "fullName": "Hầu Văn Thái",
+  "citizenId": "004087008309"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12911"
+  },
+  "userCode": "TSC0253",
+  "fullName": "Nguyễn Hoàng Giang",
+  "citizenId": "092094002992"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12912"
+  },
+  "userCode": "TSC0821",
+  "fullName": "Hồ Thanh An",
+  "citizenId": "086099004172"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12913"
+  },
+  "userCode": "TSC0784",
+  "fullName": "Nguyễn Khánh Duy",
+  "citizenId": "093203006587"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12914"
+  },
+  "userCode": "TSC0089",
+  "fullName": "Nguyễn Văn Thành Khẳng",
+  "citizenId": "092086013640"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12915"
+  },
+  "userCode": "TSC0550",
+  "fullName": "Nguyễn Thanh Hải",
+  "citizenId": "092095000540"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12916"
+  },
+  "userCode": "TSC0785",
+  "fullName": "Nguyễn Tấn Tài",
+  "citizenId": "093092007170"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12917"
+  },
+  "userCode": "TSC0344",
+  "fullName": "Nguyễn Quốc Đảm",
+  "citizenId": "092095001539"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12918"
+  },
+  "userCode": "TSC0207",
+  "fullName": "Phạm Thanh Tòng",
+  "citizenId": "092069009386"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12919"
+  },
+  "userCode": "TSC0486",
+  "fullName": "Nông Văn Toàn",
+  "citizenId": "019081000976"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1291a"
+  },
+  "userCode": "TSC0482",
+  "fullName": "Phan Văn Phúc",
+  "citizenId": "086097005609"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1291b"
+  },
+  "userCode": "TSC0693",
+  "fullName": "Dương Văn Lương",
+  "citizenId": "092071001060"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1291c"
+  },
+  "userCode": "TSC0228",
+  "fullName": "Đỗ Văn Sáu",
+  "citizenId": "092075002810"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1291d"
+  },
+  "userCode": "TSC0810",
+  "fullName": "Đỗ Duy Huynh",
+  "citizenId": "034075014687"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1291e"
+  },
+  "userCode": "TSC0689",
+  "fullName": "Lê Văn Kim",
+  "citizenId": "092096007544"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1291f"
+  },
+  "userCode": "TSC0770",
+  "fullName": "Lê Hoàng Hải Âu",
+  "citizenId": "092089015495"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12920"
+  },
+  "userCode": "TSC0451",
+  "fullName": "Bùi Công Dũng",
+  "citizenId": "030079005245"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12921"
+  },
+  "userCode": "TSC0568",
+  "fullName": "Huỳnh Thanh Quang",
+  "citizenId": "092086004289"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12922"
+  },
+  "userCode": "TSC0861",
+  "fullName": "Lê Nguyễn Quốc",
+  "citizenId": "086095008337"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12923"
+  },
+  "userCode": "TSC0502",
+  "fullName": "Lê Văn Vũ",
+  "citizenId": "092090006701"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12924"
+  },
+  "userCode": "TSC0823",
+  "fullName": "Phạm Kim Ngân",
+  "citizenId": "086087008364"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12925"
+  },
+  "userCode": "TSC0371",
+  "fullName": "Nguyễn Tấn Phát",
+  "citizenId": "092201000169"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12926"
+  },
+  "userCode": "TSC0407",
+  "fullName": "Lê Văn Tâm",
+  "citizenId": "092095012098"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12927"
+  },
+  "userCode": "TSC0780",
+  "fullName": "Nguyễn Văn Hiệp",
+  "citizenId": "091092019054"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12928"
+  },
+  "userCode": "TSC0180",
+  "fullName": "Phạm Phước An",
+  "citizenId": "092090016267"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12929"
+  },
+  "userCode": "TSC0396",
+  "fullName": "Lê Văn Nỉ",
+  "citizenId": "092076005180"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1292a"
+  },
+  "userCode": "TSC0399",
+  "fullName": "Nguyễn Hữu Nhân",
+  "citizenId": "092097010806"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1292b"
+  },
+  "userCode": "TSC0472",
+  "fullName": "Lê Văn Đoàn",
+  "citizenId": "094086015049"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1292c"
+  },
+  "userCode": "TSC0496",
+  "fullName": "Cao Nhật Trường",
+  "citizenId": "092096002326"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1292d"
+  },
+  "userCode": "TSC0449",
+  "fullName": "Đào Hữu Lan",
+  "citizenId": "038082010659"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1292e"
+  },
+  "userCode": "TSC0548",
+  "fullName": "Đinh Văn Đức",
+  "citizenId": "044076006550"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1292f"
+  },
+  "userCode": "TSC0613",
+  "fullName": "Nguyễn Quốc Bình",
+  "citizenId": "082078024529"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12930"
+  },
+  "userCode": "TSC0290",
+  "fullName": "Lê Phước Lộc",
+  "citizenId": "092092012800"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12931"
+  },
+  "userCode": "TSC0471",
+  "fullName": "Nguyễn Văn Tâm",
+  "citizenId": "092075002295"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12932"
+  },
+  "userCode": "TSC0662",
+  "fullName": "Đường Minh Thanh",
+  "citizenId": "092097005750"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12933"
+  },
+  "userCode": "TSC0433",
+  "fullName": "Lê Thanh Hải",
+  "citizenId": "025079013799"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12934"
+  },
+  "userCode": "TSC0203",
+  "fullName": "Bùi Thanh Thông",
+  "citizenId": "092083006534"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12935"
+  },
+  "userCode": "TSC0410",
+  "fullName": "Hà Văn Hiền",
+  "citizenId": "044086010778"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12936"
+  },
+  "userCode": "TSC0282",
+  "fullName": "Lê Triêu Linh",
+  "citizenId": "089099009803"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12937"
+  },
+  "userCode": "TSC0632",
+  "fullName": "Nguyễn Xuân Hùng",
+  "citizenId": "092093004253"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12938"
+  },
+  "userCode": "TSC0473",
+  "fullName": "Phạm Văn Chiến",
+  "citizenId": "040086000280"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12939"
+  },
+  "userCode": "TSC0440",
+  "fullName": "Nguyễn Minh Phượng",
+  "citizenId": "092090015499"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1293a"
+  },
+  "userCode": "TSC0401",
+  "fullName": "Trần Thanh Cường",
+  "citizenId": "092079008658"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1293b"
+  },
+  "userCode": "TSC0652",
+  "fullName": "Phan Hữu Long",
+  "citizenId": "095074003235"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1293c"
+  },
+  "userCode": "TSC0701",
+  "fullName": "Lâm Thành Phúc",
+  "citizenId": "092089003337"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1293d"
+  },
+  "userCode": "TSC0450",
+  "fullName": "Nguyễn Thị Thúy Ngân",
+  "citizenId": "087185006308"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1293e"
+  },
+  "userCode": "TSC0789",
+  "fullName": "Tiền Tân Tiến",
+  "citizenId": "092082006545"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1293f"
+  },
+  "userCode": "TSC0825",
+  "fullName": "Hồ Quốc Khánh",
+  "citizenId": "096097003130"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12940"
+  },
+  "userCode": "TSC0901",
+  "fullName": "Lương Ngọc Hiển",
+  "citizenId": "092086000946"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12941"
+  },
+  "userCode": "TSC0921",
+  "fullName": "Nguyễn Thanh Hải",
+  "citizenId": "092086000649",
+  "form": {
+    "$oid": "6886bbf224cf1a6d0681977a"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T23:53:22.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12942"
+  },
+  "userCode": "TSC0444",
+  "fullName": "Lê Thị Ngọc Hương",
+  "citizenId": "086193003748"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12943"
+  },
+  "userCode": "TSC0447",
+  "fullName": "Lê Thị Thùy Trâm",
+  "citizenId": "087195007081"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12944"
+  },
+  "userCode": "TSC0709",
+  "fullName": "Quách Phi Hùng",
+  "citizenId": "092073009337"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12945"
+  },
+  "userCode": "TSC0762",
+  "fullName": "Đào Minh Khan",
+  "citizenId": "092095005242"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12946"
+  },
+  "userCode": "TSC0822",
+  "fullName": "Lý Thanh Vũ",
+  "citizenId": "092089006694"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12947"
+  },
+  "userCode": "TSC0445",
+  "fullName": "Bùi Thị Cẩm Tú",
+  "citizenId": "087188007017"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12948"
+  },
+  "userCode": "TSC0700",
+  "fullName": "Võ Kim Thủy",
+  "citizenId": "093192011728"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12949"
+  },
+  "userCode": "TSC0111",
+  "fullName": "Đỗ Văn Hoài",
+  "citizenId": "095090010247"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1294a"
+  },
+  "userCode": "TSC0576",
+  "fullName": "Nguyễn Văn Trúc",
+  "citizenId": "049070014659"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1294b"
+  },
+  "userCode": "TSC0109",
+  "fullName": "Phan Thanh Chân Tín",
+  "citizenId": "083072007446"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1294c"
+  },
+  "userCode": "TSC0378",
+  "fullName": "Nguyễn Tấn",
+  "citizenId": "092099004282"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1294d"
+  },
+  "userCode": "TSC0391",
+  "fullName": "Nguyễn Quốc Dương",
+  "citizenId": "092200005496"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1294e"
+  },
+  "userCode": "TSC0769",
+  "fullName": "Phạm Kiều Diễm",
+  "citizenId": "092301006205"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1294f"
+  },
+  "userCode": "TSC0036",
+  "fullName": "Nguyễn Hữu Hùng",
+  "citizenId": "075073005485"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12950"
+  },
+  "userCode": "TSC0174",
+  "fullName": "Trần Bá Phúc",
+  "citizenId": "092090002501"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12951"
+  },
+  "userCode": "TSC0561",
+  "fullName": "Lê Nhựt Hào",
+  "citizenId": "092200007379"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12952"
+  },
+  "userCode": "TSC0175",
+  "fullName": "Nguyễn Quốc Nam",
+  "citizenId": "092086008321"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12953"
+  },
+  "userCode": "TSC0910",
+  "fullName": "Lê Vũ Linh",
+  "citizenId": "091092000804"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12954"
+  },
+  "userCode": "TSC0093",
+  "fullName": "Lương Đoàn Linh Bảo",
+  "citizenId": "092077008839"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12955"
+  },
+  "userCode": "TSC0129",
+  "fullName": "Đinh Trung Hiếu",
+  "citizenId": "092090014286"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12956"
+  },
+  "userCode": "TSC0096",
+  "fullName": "Lê Sĩ Hiền",
+  "citizenId": "092088002084"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12957"
+  },
+  "userCode": "TSC0881",
+  "fullName": "Hồ Trung Nghiệp",
+  "citizenId": "092098004392"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12958"
+  },
+  "userCode": "TSC0124",
+  "fullName": "Nguyễn Phùng Quang Quý",
+  "citizenId": "040093007908"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12959"
+  },
+  "userCode": "TSC0162",
+  "fullName": "Đỗ Văn Toại",
+  "citizenId": "092081001114"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1295a"
+  },
+  "userCode": "TSC0604",
+  "fullName": "Phạm Thành Thiêng",
+  "citizenId": "096087015388"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1295b"
+  },
+  "userCode": "TSC0112",
+  "fullName": "Trần Hoàng Anh",
+  "citizenId": "092090002051"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1295c"
+  },
+  "userCode": "TSC0184",
+  "fullName": "Phạm Thành Nhân",
+  "citizenId": "092091002171"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1295d"
+  },
+  "userCode": "TSC0590",
+  "fullName": "Hoàng Quốc Thái",
+  "citizenId": "092088006352"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1295e"
+  },
+  "userCode": "TSC0167",
+  "fullName": "Huỳnh Thanh Nam",
+  "citizenId": "087090018084"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1295f"
+  },
+  "userCode": "TSC0130",
+  "fullName": "Lâm Hoàng Kiệt",
+  "citizenId": "092084012797"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12960"
+  },
+  "userCode": "TSC0185",
+  "fullName": "Trần Kế Trí Toàn",
+  "citizenId": "092083005599"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12961"
+  },
+  "userCode": "TSC0877",
+  "fullName": "Lê Hữu Lộc",
+  "citizenId": "092088010389"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12962"
+  },
+  "userCode": "TSC0038",
+  "fullName": "Nguyễn Ngọc Bảo",
+  "citizenId": "092072003531"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12963"
+  },
+  "userCode": "TSC0146",
+  "fullName": "Hồ Văn Tuấn",
+  "citizenId": "026071000965"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12964"
+  },
+  "userCode": "TSC0181",
+  "fullName": "Vũ Văn Khối",
+  "citizenId": "037079003887"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12965"
+  },
+  "userCode": "TSC0011",
+  "fullName": "Nguyễn Minh Hoàng",
+  "citizenId": "092068000514"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12966"
+  },
+  "userCode": "TSC0609",
+  "fullName": "Phan Tấn Thiện",
+  "citizenId": "082073016679"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12967"
+  },
+  "userCode": "TSC0751",
+  "fullName": "Phạm Quang Giang",
+  "citizenId": "037080002753"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12968"
+  },
+  "userCode": "TSC0118",
+  "fullName": "Đào Văn Phong",
+  "citizenId": "092093005934"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12969"
+  },
+  "userCode": "TSC0529",
+  "fullName": "Trần Quốc Đăng",
+  "citizenId": "093202007463"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1296a"
+  },
+  "userCode": "TSC0589",
+  "fullName": "Huỳnh Hữu Bình An",
+  "citizenId": "092099000992"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1296b"
+  },
+  "userCode": "TSC0122",
+  "fullName": "Nguyễn Thanh Nhân",
+  "citizenId": "092090000270"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1296c"
+  },
+  "userCode": "TSC0170",
+  "fullName": "Nguyễn Văn Khoa",
+  "citizenId": "083080015009"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1296d"
+  },
+  "userCode": "TSC0169",
+  "fullName": "Lê Văn Trung",
+  "citizenId": "091091014049"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1296e"
+  },
+  "userCode": "TSC0470",
+  "fullName": "Nguyễn Trọng Khanh",
+  "citizenId": "092092013871"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1296f"
+  },
+  "userCode": "TSC0092",
+  "fullName": "Phạm Thanh Tuấn",
+  "citizenId": "092079001180",
+  "form": {
+    "$oid": "6886ba2024cf1a6d06819776"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T23:45:36.455Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12970"
+  },
+  "userCode": "TSC0562",
+  "fullName": "Lê Thanh Hùng",
+  "citizenId": "084078004074"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12971"
+  },
+  "userCode": "TSC0097",
+  "fullName": "Nguyễn Trung Tuyến",
+  "citizenId": "092080003421"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12972"
+  },
+  "userCode": "TSC0032",
+  "fullName": "Bùi Công Huy",
+  "citizenId": "030075016094"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12973"
+  },
+  "userCode": "TSC0123",
+  "fullName": "Phạm Thế Đàn",
+  "citizenId": "094087012816"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12974"
+  },
+  "userCode": "TSC0019",
+  "fullName": "Lê Hữu Phước",
+  "citizenId": "092069000377"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12975"
+  },
+  "userCode": "TSC0163",
+  "fullName": "Đào Văn Sang",
+  "citizenId": "092088001735"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12976"
+  },
+  "userCode": "TSC0094",
+  "fullName": "Nguyễn Văn Thắng",
+  "citizenId": "092086009640"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12977"
+  },
+  "userCode": "TSC0152",
+  "fullName": "Nguyễn Thái Châu",
+  "citizenId": "093090001254"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12978"
+  },
+  "userCode": "TSC0882",
+  "fullName": "Nguyễn Bá Phúc",
+  "citizenId": "092090015539"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12979"
+  },
+  "userCode": "TSC0056",
+  "fullName": "Nguyễn Văn Chính",
+  "citizenId": "024089011525"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1297a"
+  },
+  "userCode": "TSC0815",
+  "fullName": "Nguyễn Thanh Trường",
+  "citizenId": "092097000567"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1297b"
+  },
+  "userCode": "TSC0172",
+  "fullName": "Phạm Thành Phát",
+  "citizenId": "092201004534"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1297c"
+  },
+  "userCode": "TSC0057",
+  "fullName": "Nguyễn Trung Kiên",
+  "citizenId": "026083011616"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1297d"
+  },
+  "userCode": "TSC0416",
+  "fullName": "Trần Thanh Vũ",
+  "citizenId": "092090000085"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1297e"
+  },
+  "userCode": "TSC0879",
+  "fullName": "Nguyễn Thái Hương Điền",
+  "citizenId": "092090003265"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1297f"
+  },
+  "userCode": "TSC0193",
+  "fullName": "Lương Văn Y",
+  "citizenId": "092083006941"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12980"
+  },
+  "userCode": "TSC0930",
+  "fullName": "Nguyễn Quý Huy",
+  "citizenId": "092090004402",
+  "form": {
+    "$oid": "68848b0424cf1a6d0681975d"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T08:00:04.511Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12981"
+  },
+  "userCode": "TSC0880",
+  "fullName": "Nguyễn Văn Minh",
+  "citizenId": "092091004299"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12982"
+  },
+  "userCode": "TSC0164",
+  "fullName": "Phan Văn Bùi",
+  "citizenId": "092083002893"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12983"
+  },
+  "userCode": "TSC0116",
+  "fullName": "Nguyễn Ngọc Tú",
+  "citizenId": "092090007273"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12984"
+  },
+  "userCode": "TSC0425",
+  "fullName": "Lê Hoàng Đỉnh",
+  "citizenId": "092097004716"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12985"
+  },
+  "userCode": "TSC0870",
+  "fullName": "Trần Công Danh",
+  "citizenId": "093096005305"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12986"
+  },
+  "userCode": "TSC0795",
+  "fullName": "Đỗ Văn Huy",
+  "citizenId": "033098000682"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12987"
+  },
+  "userCode": "TSC0869",
+  "fullName": "Dư Công Nguyên",
+  "citizenId": "096096011892"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12988"
+  },
+  "userCode": "TSC0021",
+  "fullName": "Phạm Việt Phương",
+  "citizenId": "093069005984"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12989"
+  },
+  "userCode": "TSC0052",
+  "fullName": "Tăng Văn Vương",
+  "citizenId": "093076000092"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1298a"
+  },
+  "userCode": "TSC0131",
+  "fullName": "Lê Hoàng Mỹ",
+  "citizenId": "093080000168"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1298b"
+  },
+  "userCode": "TSC0142",
+  "fullName": "Trần Văn Sang",
+  "citizenId": "086068017857"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1298c"
+  },
+  "userCode": "TSC0099",
+  "fullName": "Thạch Cương",
+  "citizenId": "092086000719"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1298d"
+  },
+  "userCode": "TSC0931",
+  "fullName": "Trần Hoàng Tâm",
+  "citizenId": "092094004450",
+  "form": {
+    "$oid": "6884621724cf1a6d06819749"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T05:05:27.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1298e"
+  },
+  "userCode": "TSC0150",
+  "fullName": "Nguyễn Thành Tâm",
+  "citizenId": "087085000193"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1298f"
+  },
+  "userCode": "TSC0103",
+  "fullName": "Nguyễn Quốc Triệu",
+  "citizenId": "015083005422"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12990"
+  },
+  "userCode": "TSC0160",
+  "fullName": "Nguyễn Anh Tú",
+  "citizenId": "086092006977"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12991"
+  },
+  "userCode": "TSC0117",
+  "fullName": "Trần Quốc An",
+  "citizenId": "040067000120"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12992"
+  },
+  "userCode": "TSC0188",
+  "fullName": "Trầm Hoàng Quân",
+  "citizenId": "092095009378"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12993"
+  },
+  "userCode": "TSC0063",
+  "fullName": "Đặng Minh Chánh",
+  "citizenId": "092073003601"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12994"
+  },
+  "userCode": "TSC0098",
+  "fullName": "Lê Hữu Thiện",
+  "citizenId": "092085001952"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12995"
+  },
+  "userCode": "TSC0927",
+  "fullName": "Phan Nhật Hào",
+  "citizenId": "092203001135"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12996"
+  },
+  "userCode": "TSC0031",
+  "fullName": "Từ Văn Linh",
+  "citizenId": "092075007693"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12997"
+  },
+  "userCode": "TSC0558",
+  "fullName": "Huỳnh Bảo Quốc",
+  "citizenId": "095087013227",
+  "form": {
+    "$oid": "68847daa24cf1a6d06819755"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T07:03:06.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12998"
+  },
+  "userCode": "TSC0119",
+  "fullName": "Mai Thanh Nguyên",
+  "citizenId": "084087012422",
+  "form": {
+    "$oid": "6886b65724cf1a6d06819772"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T23:29:27.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea12999"
+  },
+  "userCode": "TSC0155",
+  "fullName": "Huỳnh Quốc Việt",
+  "citizenId": "095078008398"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1299a"
+  },
+  "userCode": "TSC0082",
+  "fullName": "Nguyễn Thanh Nhanh",
+  "citizenId": "092085013095"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1299b"
+  },
+  "userCode": "TSC0418",
+  "fullName": "Phan Văn Để",
+  "citizenId": "093085002425"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1299c"
+  },
+  "userCode": "TSC0392",
+  "fullName": "Triệu Văn Bạch",
+  "citizenId": "092091005508"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1299d"
+  },
+  "userCode": "TSC0929",
+  "fullName": "Trương Tấn Tài",
+  "citizenId": "092091010012"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1299e"
+  },
+  "userCode": "TSC0104",
+  "fullName": "Trần Hữu Phúc",
+  "citizenId": "086091006820"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea1299f"
+  },
+  "userCode": "TSC0464",
+  "fullName": "Nguyễn Tấn An",
+  "citizenId": "092201005239"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a0"
+  },
+  "userCode": "TSC0173",
+  "fullName": "Trần Trung Tín",
+  "citizenId": "092097007042"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a1"
+  },
+  "userCode": "TSC0845",
+  "fullName": "Nguyễn Minh Khang",
+  "citizenId": "094098002093"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a2"
+  },
+  "userCode": "TSC0918",
+  "fullName": "Lưu Bá Nha",
+  "citizenId": "086201005673"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a3"
+  },
+  "userCode": "TSC0905",
+  "fullName": "Nguyễn Thế Vỹ",
+  "citizenId": "092200004259"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a4"
+  },
+  "userCode": "TSC0171",
+  "fullName": "Châu Tuấn Kiệt",
+  "citizenId": "001071013351"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a5"
+  },
+  "userCode": "TSC0851",
+  "fullName": "Trần Thanh Hùng",
+  "citizenId": "092085011495"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a6"
+  },
+  "userCode": "TSC0087",
+  "fullName": "Nguyễn Thanh Phú",
+  "citizenId": "092083006891"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a7"
+  },
+  "userCode": "TSC0886",
+  "fullName": "Trần Thanh Hộ",
+  "citizenId": "092089001294"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a8"
+  },
+  "userCode": "TSC0916",
+  "fullName": "Phạm Văn Đăng",
+  "citizenId": "092089005894"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129a9"
+  },
+  "userCode": "TSC0013",
+  "fullName": "Nguyễn Văn Tám",
+  "citizenId": "083070007845"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129aa"
+  },
+  "userCode": "TSC0046",
+  "fullName": "Đỗ Văn Tuấn",
+  "citizenId": "031076024270"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129ab"
+  },
+  "userCode": "TSC0024",
+  "fullName": "Nguyễn Quang Hưng",
+  "citizenId": "092076002596"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129ac"
+  },
+  "userCode": "TSC0743",
+  "fullName": "Lâm Bách Tùng",
+  "citizenId": "096093003892",
+  "form": {
+    "$oid": "6886ede124cf1a6d06819786"
+  },
+  "updatedAt": {
+    "$date": "2025-07-28T03:26:25.397Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129ad"
+  },
+  "userCode": "TSC0767",
+  "fullName": "Nguyễn Hoàng Minh",
+  "citizenId": "091097015616"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129ae"
+  },
+  "userCode": "TSC0645",
+  "fullName": "Lưu Công Thắng",
+  "citizenId": "092088005246"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129af"
+  },
+  "userCode": "TSC0520",
+  "fullName": "Trịnh Văn Khiêm",
+  "citizenId": "093202005601"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b0"
+  },
+  "userCode": "TSC0261",
+  "fullName": "Nguyễn Văn Sự",
+  "citizenId": "091082020367"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b1"
+  },
+  "userCode": "TSC0309",
+  "fullName": "Đỗ Văn Lễ",
+  "citizenId": "092098000985"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b2"
+  },
+  "userCode": "TSC0287",
+  "fullName": "Lê Văn Toàn",
+  "citizenId": "093099007244"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b3"
+  },
+  "userCode": "TSC0106",
+  "fullName": "Nguyễn Khắc Song",
+  "citizenId": "042093002564"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b4"
+  },
+  "userCode": "TSC0684",
+  "fullName": "Hoàng Văn Duy",
+  "citizenId": "096096003683"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b5"
+  },
+  "userCode": "TSC0101",
+  "fullName": "Nguyễn Hữu Dũng",
+  "citizenId": "037085000267"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b6"
+  },
+  "userCode": "TSC0509",
+  "fullName": "Quang Thanh Pháp",
+  "citizenId": "096202011135"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b7"
+  },
+  "userCode": "TSC0855",
+  "fullName": "Võ Bá Toàn",
+  "citizenId": "084200005897"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b8"
+  },
+  "userCode": "TSC0712",
+  "fullName": "Nguyễn Chí Nin",
+  "citizenId": "093202006022"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129b9"
+  },
+  "userCode": "TSC0459",
+  "fullName": "Lưu Hoàng Hiệp Hòa",
+  "citizenId": "092084005831"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129ba"
+  },
+  "userCode": "TSC0438",
+  "fullName": "Nguyễn Minh Bằng",
+  "citizenId": "092081002002"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129bb"
+  },
+  "userCode": "TSC0842",
+  "fullName": "Trần Xuân Quang",
+  "citizenId": "093082008767"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129bc"
+  },
+  "userCode": "TSC0556",
+  "fullName": "Võ Đức Thành",
+  "citizenId": "092096000345"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129bd"
+  },
+  "userCode": "TSC0666",
+  "fullName": "Huỳnh Văn Tuấn",
+  "citizenId": "092081008630"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129be"
+  },
+  "userCode": "TSC0799",
+  "fullName": "Trương Văn Vàng",
+  "citizenId": "092089012975"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129bf"
+  },
+  "userCode": "TSC0311",
+  "fullName": "Đinh Văn Ngọc",
+  "citizenId": "086094007789"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c0"
+  },
+  "userCode": "TSC0836",
+  "fullName": "Nguyễn Minh Chánh",
+  "citizenId": "092099010549"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c1"
+  },
+  "userCode": "TSC0829",
+  "fullName": "Huỳnh Thanh Tú",
+  "citizenId": "093200006487"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c2"
+  },
+  "userCode": "TSC0843",
+  "fullName": "Trần Gia Hưng",
+  "citizenId": "094200014855"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c3"
+  },
+  "userCode": "TSC0588",
+  "fullName": "Vũ Văn Toàn",
+  "citizenId": "096200009225"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c4"
+  },
+  "userCode": "TSC0797",
+  "fullName": "Lê Hoàng Huy",
+  "citizenId": "092099001417"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c5"
+  },
+  "userCode": "TSC0847",
+  "fullName": "Trần Võ Nguyên",
+  "citizenId": "092084003197"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c6"
+  },
+  "userCode": "TSC0854",
+  "fullName": "Nguyễn Thị Hồng Hà",
+  "citizenId": "092189005161"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c7"
+  },
+  "userCode": "TSC0765",
+  "fullName": "Nguyễn Văn Út",
+  "citizenId": "082084000500"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c8"
+  },
+  "userCode": "DPB022",
+  "fullName": "Phương Hoàng Bảo Nhi",
+  "citizenId": "048197007930"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129c9"
+  },
+  "userCode": "DPB023",
+  "fullName": "Trương Thị Hạnh",
+  "citizenId": "092185004119"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129ca"
+  },
+  "userCode": "DPB013",
+  "fullName": "Trần Thanh Hậu",
+  "citizenId": "092095012075"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129cb"
+  },
+  "userCode": "DPB012",
+  "fullName": "Trương Hoàng Khánh",
+  "citizenId": "092077001205"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129cc"
+  },
+  "userCode": "DPB006",
+  "fullName": "Lê Hùng Phong",
+  "citizenId": "086086008283"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129cd"
+  },
+  "userCode": "DPB003",
+  "fullName": "Lý Anh Dũng",
+  "citizenId": "092088001142"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129ce"
+  },
+  "userCode": "DPB015",
+  "fullName": "Lý Kinh Kha",
+  "citizenId": "092088016405"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129cf"
+  },
+  "userCode": "DPB025",
+  "fullName": "Nguyễn Phước Sang",
+  "citizenId": "093092008607"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d0"
+  },
+  "userCode": "DPB008",
+  "fullName": "Đinh Thanh Tâm",
+  "citizenId": "086087000986"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d1"
+  },
+  "userCode": "DPB007",
+  "fullName": "Võ Thanh Hùng",
+  "citizenId": "087080023536"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d2"
+  },
+  "userCode": "DPB005",
+  "fullName": "Nguyễn Phúc Khánh",
+  "citizenId": "092082013506"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d3"
+  },
+  "userCode": "DPB011",
+  "fullName": "Phạm Minh Tuyền",
+  "citizenId": "092093000951"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d4"
+  },
+  "userCode": "DPB001",
+  "fullName": "Trịnh Thị Thanh Ngân",
+  "citizenId": "038177000187"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d5"
+  },
+  "userCode": "DPB018",
+  "fullName": "Lê Thị Hoàng Anh",
+  "citizenId": "064173003826"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d6"
+  },
+  "userCode": "DPB020",
+  "fullName": "Trần Thị Lan",
+  "citizenId": "092179001211"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d7"
+  },
+  "userCode": "DPB019",
+  "fullName": "Dương Thị Khá",
+  "citizenId": "091181000273"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d8"
+  },
+  "userCode": "DPB017",
+  "fullName": "Nguyễn Thị Sinh",
+  "citizenId": "040182000356"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129d9"
+  },
+  "userCode": "DPB002",
+  "fullName": "Trương Thị Thu Lan",
+  "citizenId": "092170005182"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129da"
+  },
+  "userCode": "DPB014",
+  "fullName": "Mai Thị Phương",
+  "citizenId": "092170008322"
+},
+{
+  "_id": {
+    "$oid": "68844f24360e3f697ea129db"
+  },
+  "userCode": "DPB010",
+  "fullName": "Sơn Thị Trọng",
+  "citizenId": "086179012772"
+}]

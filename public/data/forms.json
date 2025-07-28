@@ -1,0 +1,456 @@
+[{
+  "_id": {
+    "$oid": "68844fc724cf1a6d06819726"
+  },
+  "fullName": "Tran Huu Dang",
+  "dob": "2025-07-31",
+  "citizenId": "093203007100",
+  "newAddress": "Uhhv",
+  "temporaryAddress": "Jvhvb",
+  "currentAddress": "Nvhbv",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753501639940-948558966-IMG_2935.png",
+  "createdAt": {
+    "$date": "2025-07-26T03:47:19.986Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T03:47:19.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884509c24cf1a6d0681972a"
+  },
+  "fullName": "Nguyễn chí ngôn",
+  "dob": "2000-02-05",
+  "citizenId": "093200004675",
+  "newAddress": "Ấp trường lợi xã trường long tây thành phố cần thơ",
+  "temporaryAddress": "Xã trường long a huyện châu thành a tỉnh hậu giang",
+  "currentAddress": "Ấp trường lợi xã trường Long tây thành phố cần thơ ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753501852423-637358125-IMG_3814.png",
+  "createdAt": {
+    "$date": "2025-07-26T03:50:52.476Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T03:50:52.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884517e24cf1a6d0681972e"
+  },
+  "fullName": "PHẠM NGỌC THƯỜNG",
+  "dob": "1980-11-08",
+  "citizenId": "094080000143",
+  "newAddress": "379L/9 Nguyễn Văn Cừ, KV3, Phường Tân An, Thành phố Cần Thơ",
+  "temporaryAddress": "",
+  "currentAddress": "379L/9 Nguyễn Văn Cừ, KV3, Phường Tân An, Thành phố Cần Thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753502078283-646570796-Screenshot_2025-07-26-10-46-39-205_com.vnid.jpg",
+  "createdAt": {
+    "$date": "2025-07-26T03:54:38.303Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T03:54:38.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884544024cf1a6d06819732"
+  },
+  "fullName": "Lê Văn Sỷ",
+  "dob": "1992-11-14",
+  "citizenId": "044092015838",
+  "newAddress": "Thôn Ninh Lộc,Xã Lệ Ninh,Tỉnh Quảng Trị",
+  "temporaryAddress": "Thôn Ninh Lộc,Xã Lệ Ninh,Tỉnh Quảng Trị",
+  "currentAddress": "Thôn Ninh Lộc,Xã Lệ Ninh,Tỉnh Quảng Trị",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753502784233-400945351-Screenshot_20250726_082645.jpg",
+  "createdAt": {
+    "$date": "2025-07-26T04:06:24.248Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:06:24.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884545024cf1a6d06819736"
+  },
+  "fullName": "Nguyễn Nhật Minh",
+  "dob": "2000-11-20",
+  "citizenId": "092200005537",
+  "newAddress": "Kv Thới Phong A, Phường Ô Môn, Thành phố Cần Thơ",
+  "temporaryAddress": "",
+  "currentAddress": "Kv Thới Phong A, Phường Ô Môn, Thành phố Cần Thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753502800459-931621692-IMG_7485.png",
+  "createdAt": {
+    "$date": "2025-07-26T04:06:40.484Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:06:40.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884546824cf1a6d0681973a"
+  },
+  "fullName": "Nguyễn thanh tòng ",
+  "dob": "1988-08-17",
+  "citizenId": "092088015280",
+  "newAddress": "KV thới hòa, phường ô môn, thành phố cần thơ ",
+  "temporaryAddress": "KV thới hòa, phường ô môn, thành phố cần thơ ",
+  "currentAddress": "KV thới hòa, phường ô môn, thành phố cần thơ ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753502824956-380625834-IMG_0840.png",
+  "createdAt": {
+    "$date": "2025-07-26T04:07:04.981Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:07:04.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884587424cf1a6d06819741"
+  },
+  "fullName": "Nguyễn Thị Hường",
+  "dob": "1984-12-05",
+  "citizenId": "036184020361",
+  "newAddress": "559a/7 Khu vực Bình Trung, Phường Long Tuyền, Thành phố Cần Thơ",
+  "temporaryAddress": "không",
+  "currentAddress": "559a/7 Khu vực Bình Trung, Phường Long Tuyền, Thành phố Cần Thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753503860144-392296527-CCCD.jpg",
+  "createdAt": {
+    "$date": "2025-07-26T04:24:20.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:24:20.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884607324cf1a6d06819745"
+  },
+  "fullName": "Nguyễn Hồng Phúc ",
+  "dob": "1990-07-14",
+  "citizenId": "086090009095",
+  "newAddress": "146/45/17a1, đường Hoàng Quốc Việt, khu vực 4,  phường an bình, tp cần thơ",
+  "temporaryAddress": "Xã Trà Côn, Huyện Trà Ôn, Tỉnh Vĩnh Long ",
+  "currentAddress": "146/45/17a1, đường Hoàng Quốc Việt, khu vực 4,  phường an bình, tp cần thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753505907422-294642479-Screenshot_2025-07-26-11-46-48-48_be4f473ebf2315e5d5ba0d90a1cdc907.jpg",
+  "createdAt": {
+    "$date": "2025-07-26T04:58:27.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T04:58:27.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884621724cf1a6d06819749"
+  },
+  "fullName": "Trần hoàng tâm ",
+  "dob": "1994-06-28",
+  "citizenId": "092094004450",
+  "newAddress": "Kv Tân Phú phường thuận Hưng tp cần thơ ",
+  "temporaryAddress": "KV Tân Phú phường thuận Hưng tp cần thơ ",
+  "currentAddress": "KV Tân Phú phường thuận Hưng ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753506327675-627965160-IMG_0188.jpeg",
+  "createdAt": {
+    "$date": "2025-07-26T05:05:27.686Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T05:05:27.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688465ea24cf1a6d0681974d"
+  },
+  "fullName": "Lê Thanh Sang",
+  "dob": "1999-09-30",
+  "citizenId": "092099001560",
+  "newAddress": "460A/14 tổ 14 khu vực 7, Phường An Bình, TP Cần Thơ",
+  "temporaryAddress": "",
+  "currentAddress": "460A/14 tổ 14 khu vực 7, Phường An Bình, TP Cần Thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753507306089-393251724-IMG_2904.png",
+  "createdAt": {
+    "$date": "2025-07-26T05:21:46.118Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T05:21:46.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884772724cf1a6d06819751"
+  },
+  "fullName": "Nguyễn Thanh Toàn",
+  "dob": "1999-04-19",
+  "citizenId": "092099000859",
+  "newAddress": "45 Ấp thới bình B Phường ô môn TP Cần Thơ",
+  "temporaryAddress": "",
+  "currentAddress": "45 Ấp thới bình B Phường ô môn TP Cần Thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753511719581-30999632-IMG_1733.png",
+  "createdAt": {
+    "$date": "2025-07-26T06:35:19.605Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T06:35:19.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68847daa24cf1a6d06819755"
+  },
+  "fullName": "Huỳnh Bảo Quốc",
+  "dob": "1987-01-01",
+  "citizenId": "095087013227",
+  "newAddress": "Kv Bình Phước, phường Phước Thới, Thành phố Cần Thơ",
+  "temporaryAddress": "",
+  "currentAddress": "Kv Bình Phước, phường Phước Thới, Thành phố Cần Thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753513386124-787121733-IMG_0498.png",
+  "createdAt": {
+    "$date": "2025-07-26T07:03:06.150Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T07:03:06.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884853624cf1a6d06819759"
+  },
+  "fullName": "NGUYỂN VŨ SƠN",
+  "dob": "1980-03-16",
+  "citizenId": "086080013726",
+  "newAddress": "Ấp Thanh Phong, Xã Quới Thiện, Tỉnh Vĩnh Long",
+  "temporaryAddress": "Xã Thanh Bình, Huyện Vũng Liêm, tỉnh Vĩnh Long",
+  "currentAddress": "Ấp Thanh Phong, Xã Quới Thiện, Tĩnh Vĩnh Long",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753515318779-866426239-FF002DFA-17D1-42EC-93DF-9334EA39A639.png",
+  "createdAt": {
+    "$date": "2025-07-26T07:35:18.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T07:35:18.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68848b0424cf1a6d0681975d"
+  },
+  "fullName": "Nguyễn Quý Huy",
+  "dob": "1990-06-26",
+  "citizenId": "092090004402",
+  "newAddress": "49a4 , tổ 7 , kv2 , phường tân an , thành phố cần thơ",
+  "temporaryAddress": "",
+  "currentAddress": "49a4 , tổ 7 , kv2 , phường tân an , thành phố cần thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753516804492-946936476-Screenshot_2025-07-25-20-39-47-068_com.vnid.jpg",
+  "createdAt": {
+    "$date": "2025-07-26T08:00:04.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T08:00:04.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884adce24cf1a6d06819761"
+  },
+  "fullName": "Nguyễn Thanh Thiện ",
+  "dob": "1989-06-15",
+  "citizenId": "092089002068",
+  "newAddress": "162D/PT Tổ 6 khu vực bình phó B Phường long tuyền thành phố cần thơ ",
+  "temporaryAddress": "162D/PT Tổ 6 khu vực bình phó B Phường long tuyền thành phố cần thơ ",
+  "currentAddress": "162D/PT khu vực bình phó B Phường long tuyền thành phố cần thơ ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753525710952-916782233-Screenshot_2025-07-26-17-26-52-891_com.vnid.jpg",
+  "createdAt": {
+    "$date": "2025-07-26T10:28:30.969Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T10:28:30.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6884d3fc24cf1a6d06819765"
+  },
+  "fullName": "Lê Văn thanh ",
+  "dob": "1989-01-02",
+  "citizenId": "093089007436",
+  "newAddress": "Ấp Hòa Đức, xã Hòa An, thành phố cần Thơ ",
+  "temporaryAddress": "Ấp Hòa Đức xã Hòa An thành phố cần Thơ ",
+  "currentAddress": "Ấp Hòa Đức xã Hòa An thành phố cần Thơ ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753535484354-267279668-Screenshot_2025-07-10-19-18-38-83.jpg",
+  "createdAt": {
+    "$date": "2025-07-26T13:11:24.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-26T13:11:24.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886040424cf1a6d06819769"
+  },
+  "fullName": "Phạm Hoàng Chinh",
+  "dob": "1990-08-05",
+  "citizenId": "075090010016",
+  "newAddress": "13E4 Khu Phố Phi Trường, Phường Trấn Biên, Đồng Nai",
+  "temporaryAddress": "",
+  "currentAddress": "13E4 Khu Phố 6, Phường Trấn Biên, Đồng Nai",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753613316536-729430208-Screenshot_20250725-191921_VNeID.jpg",
+  "createdAt": {
+    "$date": "2025-07-27T10:48:36.557Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T10:48:36.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68862d6724cf1a6d0681976e"
+  },
+  "fullName": "Nguyễn văn tới",
+  "dob": "1980-08-11",
+  "citizenId": "092080012656",
+  "newAddress": "Kv hòa long , phường ômôn, TP Cần Thơ ",
+  "temporaryAddress": "Kv hòa long , phường Ômôn, TP Cần Thơ ",
+  "currentAddress": "Kv Hòa Long, Phường Ômôn, TP Cần Thơ ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753623910993-800507855-Screenshot_20250727_114717_VNeID.jpg",
+  "createdAt": {
+    "$date": "2025-07-27T13:45:11.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T13:45:11.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886b65724cf1a6d06819772"
+  },
+  "fullName": "Mai Thanh Nguyên",
+  "dob": "1987-06-10",
+  "citizenId": "084087012422",
+  "newAddress": "Số nhà 361 đường điện biên phủ khóm 11 phường Trà Vinh tỉnh Vĩnh Long",
+  "temporaryAddress": "36/60 khu vực 2 phường thế an đông thành phố cần Thơ",
+  "currentAddress": "36/60 khu vực 2 phường thế an đông thành phố cần Thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753658967671-57123086-20250728_061411.jpg",
+  "createdAt": {
+    "$date": "2025-07-27T23:29:27.691Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T23:29:27.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886ba2024cf1a6d06819776"
+  },
+  "fullName": "Pham thanh tuan",
+  "dob": "1979-01-01",
+  "citizenId": "092079001180",
+  "newAddress": "Ap tan lông a xã Phong Điền thanh pho Cần Thơ ",
+  "temporaryAddress": "Ap tan lông a xã Phong Điền thanh pho Cần Thơ ",
+  "currentAddress": "Ap tan lông a xã Phong Điền thanh pho Cần Thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753659936429-767488006-Screenshot_20250728_064018_VNeID.jpg",
+  "createdAt": {
+    "$date": "2025-07-27T23:45:36.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T23:45:36.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886bbf224cf1a6d0681977a"
+  },
+  "fullName": "Nguyễn Thanh Hải ",
+  "dob": "1986-01-01",
+  "citizenId": "092086000649",
+  "newAddress": "38b/2 tổ 2,khu vực 4, phường Thới An Đông, thành phố cần Thơ ",
+  "temporaryAddress": "38b/2 tổ 2,khu vực 4, phường Thới An Đông thành phố cần Thơ ",
+  "currentAddress": "38b/2 tổ 2, khu vực 4, phường Thới An Đông, thành phố cần Thơ ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753660402921-45829744-Screenshot_2025-07-28-06-43-23-481_com.vnid.jpg",
+  "createdAt": {
+    "$date": "2025-07-27T23:53:22.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-27T23:53:22.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886c44724cf1a6d0681977e"
+  },
+  "fullName": "Nguyễn văn voi",
+  "dob": "1987-11-06",
+  "citizenId": "086087008172",
+  "newAddress": "Tổ1 Ấp Tân Tiến Xã Tân Lược Tinh Vĩnh Long ",
+  "temporaryAddress": "Tổ1 ấp Tân tiến Xã Tân Lược Tinh Vĩnh Long ",
+  "currentAddress": "Tổ1 ấp Tân Tiến xã Tân lược tinh Vĩnh Long ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753662535633-984887743-IMG_3089.png",
+  "createdAt": {
+    "$date": "2025-07-28T00:28:55.674Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-28T00:28:55.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886d7a524cf1a6d06819782"
+  },
+  "fullName": "Nhâm Đức Hoàng",
+  "dob": "1987-12-15",
+  "citizenId": "092087000701",
+  "newAddress": "A2-T82 Nguyễn Văn Cừ, Tổ 29, Khu Vực 4, Phường Cái Khế, Thành Phố Cần Thơ",
+  "temporaryAddress": "",
+  "currentAddress": "A2-T82 Nguyễn Văn Cừ, Tổ 29, Khu Vực 4, Phường Cái Khế, Thành Phố Cần Thơ",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753667493276-946238401-ANh VNEID.jpg",
+  "createdAt": {
+    "$date": "2025-07-28T01:51:33.288Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-28T01:51:33.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6886ede124cf1a6d06819786"
+  },
+  "fullName": "Lâm Bách Tùng",
+  "dob": "1993-05-16",
+  "citizenId": "096093003892",
+  "newAddress": "Xã Tân Hải, Tỉnh Cà Mau",
+  "temporaryAddress": "",
+  "currentAddress": "Ấp Công Nghiệp, Xã Phú Tân, Tỉnh Cà Mau",
+  "vnidImage": "https://form.theptaydo.com/uploads/1753673185378-598252963-z6848254994260_810ab0ddb2b6dab5df399f63a1f3ba90.jpg",
+  "createdAt": {
+    "$date": "2025-07-28T03:26:25.395Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-28T03:26:25.395Z"
+  },
+  "__v": 0
+}]
