@@ -537,7 +537,13 @@
     },
     "userCode": "TSC0804",
     "fullName": "Phan Quốc Thịnh",
-    "citizenId": "092083016609"
+    "citizenId": "092083016609",
+    "form": {
+      "$oid": "6889926b24cf1a6d06819818"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T03:32:59.122Z"
+    }
   },
   {
     "_id": {
@@ -1059,7 +1065,13 @@
     },
     "userCode": "TSC0639",
     "fullName": "Trần Văn Gia Bảo",
-    "citizenId": "093201004916"
+    "citizenId": "093201004916",
+    "form": {
+      "$oid": "6889c69024cf1a6d06819827"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T07:15:28.346Z"
+    }
   },
   {
     "_id": {
@@ -1131,7 +1143,13 @@
     },
     "userCode": "TSC0638",
     "fullName": "Nguyễn Văn Vĩnh",
-    "citizenId": "094201006054"
+    "citizenId": "094201006054",
+    "form": {
+      "$oid": "6889c72424cf1a6d0681982b"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T07:17:56.578Z"
+    }
   },
   {
     "_id": {
@@ -1243,7 +1261,13 @@
     },
     "userCode": "TSC0787",
     "fullName": "Nguyễn Anh Tuấn",
-    "citizenId": "040079000394"
+    "citizenId": "040079000394",
+    "form": {
+      "$oid": "68898b2324cf1a6d06819814"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T03:01:55.835Z"
+    }
   },
   {
     "_id": {
@@ -1251,7 +1275,13 @@
     },
     "userCode": "TSC0377",
     "fullName": "Nguyễn Lương Tráng",
-    "citizenId": "038084053880"
+    "citizenId": "038084053880",
+    "form": {
+      "$oid": "6889c1aa24cf1a6d06819823"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T06:54:34.103Z"
+    }
   },
   {
     "_id": {
@@ -1315,7 +1345,13 @@
     },
     "userCode": "TSC0383",
     "fullName": "Trần Vĩnh Lộc",
-    "citizenId": "087084006241"
+    "citizenId": "087084006241",
+    "form": {
+      "$oid": "6889b8ce24cf1a6d0681981d"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T06:16:46.977Z"
+    }
   },
   {
     "_id": {
@@ -2891,7 +2927,13 @@
     },
     "userCode": "TSC0181",
     "fullName": "Vũ Văn Khối",
-    "citizenId": "037079003887"
+    "citizenId": "037079003887",
+    "form": {
+      "$oid": "688970fe24cf1a6d06819810"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T01:10:22.719Z"
+    }
   },
   {
     "_id": {
