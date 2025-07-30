@@ -37,7 +37,13 @@
     },
     "userCode": "TSC0004",
     "fullName": "Võ Văn Khải",
-    "citizenId": "092070005123"
+    "citizenId": "092070005123",
+    "form": {
+      "$oid": "68881c8824cf1a6d068197f2"
+    },
+    "updatedAt": {
+      "$date": "2025-07-29T00:57:44.640Z"
+    }
   },
   {
     "_id": {
@@ -1603,7 +1609,13 @@
     },
     "userCode": "TSC0206",
     "fullName": "Nguyễn Vũ Linh",
-    "citizenId": "092091000895"
+    "citizenId": "092091000895",
+    "form": {
+      "$oid": "6888399524cf1a6d068197f6"
+    },
+    "updatedAt": {
+      "$date": "2025-07-29T03:01:41.665Z"
+    }
   },
   {
     "_id": {
@@ -1663,7 +1675,13 @@
     },
     "userCode": "TSC0274",
     "fullName": "Dương Quốc Duy",
-    "citizenId": "092200009853"
+    "citizenId": "092200009853",
+    "form": {
+      "$oid": "6888399524cf1a6d068197fa"
+    },
+    "updatedAt": {
+      "$date": "2025-07-29T03:01:41.779Z"
+    }
   },
   {
     "_id": {
@@ -2069,7 +2087,13 @@
     },
     "userCode": "TSC0492",
     "fullName": "Phan Văn Nhiệm",
-    "citizenId": "092082000064"
+    "citizenId": "092082000064",
+    "form": {
+      "$oid": "6888bdd524cf1a6d06819808"
+    },
+    "updatedAt": {
+      "$date": "2025-07-29T12:25:57.885Z"
+    }
   },
   {
     "_id": {
@@ -3823,7 +3847,13 @@
     },
     "userCode": "DPB007",
     "fullName": "Võ Thanh Hùng",
-    "citizenId": "087080023536"
+    "citizenId": "087080023536",
+    "form": {
+      "$oid": "6888744f24cf1a6d06819802"
+    },
+    "updatedAt": {
+      "$date": "2025-07-29T07:12:15.064Z"
+    }
   },
   {
     "_id": {
@@ -3875,7 +3905,13 @@
     },
     "userCode": "DPB020",
     "fullName": "Trần Thị Lan",
-    "citizenId": "092179001211"
+    "citizenId": "092179001211",
+    "form": {
+      "$oid": "6888c9eb24cf1a6d0681980c"
+    },
+    "updatedAt": {
+      "$date": "2025-07-29T13:17:31.286Z"
+    }
   },
   {
     "_id": {
@@ -3939,6 +3975,12 @@
     },
     "userCode": "DPB010",
     "fullName": "Sơn Thị Trọng",
-    "citizenId": "086179012772"
+    "citizenId": "086179012772",
+    "form": {
+      "$oid": "6888462524cf1a6d068197fe"
+    },
+    "updatedAt": {
+      "$date": "2025-07-29T03:55:17.087Z"
+    }
   }
 ]
