@@ -1057,7 +1057,13 @@
     },
     "userCode": "TSC0415",
     "fullName": "Đinh Lê Ngọc Phúc",
-    "citizenId": "092082003252"
+    "citizenId": "092082003252",
+    "form": {
+      "$oid": "6889ef4c24cf1a6d0681982f"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T10:09:16.003Z"
+    }
   },
   {
     "_id": {
@@ -1181,7 +1187,13 @@
     },
     "userCode": "TSC0201",
     "fullName": "Lê Anh Tuấn",
-    "citizenId": "093066001576"
+    "citizenId": "093066001576",
+    "form": {
+      "$oid": "688a273f24cf1a6d06819833"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T14:07:59.637Z"
+    }
   },
   {
     "_id": {
@@ -1205,7 +1217,13 @@
     },
     "userCode": "TSC0659",
     "fullName": "Trần Đức Minh",
-    "citizenId": "092072000834"
+    "citizenId": "092072000834",
+    "form": {
+      "$oid": "688a44fa24cf1a6d06819837"
+    },
+    "updatedAt": {
+      "$date": "2025-07-30T16:14:50.816Z"
+    }
   },
   {
     "_id": {
@@ -2663,7 +2681,13 @@
     },
     "userCode": "TSC0447",
     "fullName": "Lê Thị Thùy Trâm",
-    "citizenId": "087195007081"
+    "citizenId": "087195007081",
+    "form": {
+      "$oid": "688ad33e24cf1a6d0681983b"
+    },
+    "updatedAt": {
+      "$date": "2025-07-31T02:21:50.604Z"
+    }
   },
   {
     "_id": {
