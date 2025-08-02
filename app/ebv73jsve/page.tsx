@@ -56,6 +56,27 @@ export default function FormsPage() {
     saveAs(blob, 'forms.xlsx');
   };
 
+  const downloadImage = async (url: string) => {
+    try {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error("Failed to fetch image");
+
+      const blob = await response.blob();
+      const fileName = url.split("/").pop() || "image.jpg"; // Tên tệp từ URL hoặc đặt tên mặc định
+
+      // Tạo URL cho Blob và tải về
+      const downloadUrl = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = downloadUrl;
+      link.download = fileName; // Đặt tên file mặc định khi tải xuống
+      link.click();
+      URL.revokeObjectURL(downloadUrl); // Giải phóng bộ nhớ
+    } catch (err) {
+      console.error("Error downloading image:", err);
+    }
+  };
+
+
 
   const downloadAllImages = async () => {
     const zip = new JSZip();
@@ -215,12 +236,25 @@ export default function FormsPage() {
                     alt="Ảnh CCCD"
                     className="w-full max-h-[80vh] object-contain rounded"
                   />
+                  {/* Nút tải ảnh */}
+                  <div className="mt-4 text-center">
+                    <button
+                      onClick={() => downloadImage(selectedImage!)}
+                      className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
+                    >
+                      Tải xuống
+                    </button>
+                  </div>
                 </Dialog.Panel>
               </Transition.Child>
             </div>
           </div>
         </Dialog>
       </Transition>
+
+
+
+
     </div>
   );
 }
