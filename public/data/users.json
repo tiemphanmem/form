@@ -327,7 +327,13 @@
     },
     "userCode": "TSC0461",
     "fullName": "Lê Thị Thanh Thảo",
-    "citizenId": "092189004384"
+    "citizenId": "092189004384",
+    "form": {
+      "$oid": "688d819f24cf1a6d06819892"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:10:23.825Z"
+    }
   },
   {
     "_id": {
@@ -647,7 +653,13 @@
     },
     "userCode": "TSC0064",
     "fullName": "Tăng Thị Ngọc Trâm",
-    "citizenId": "080185006705"
+    "citizenId": "080185006705",
+    "form": {
+      "$oid": "688d83e524cf1a6d068198b5"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:20:05.066Z"
+    }
   },
   {
     "_id": {
@@ -727,7 +739,13 @@
     },
     "userCode": "TSC0764",
     "fullName": "Nguyễn Hoàng Anh",
-    "citizenId": "091083023733"
+    "citizenId": "091083023733",
+    "form": {
+      "$oid": "688d82bc24cf1a6d0681989d"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:15:08.593Z"
+    }
   },
   {
     "_id": {
@@ -735,7 +753,13 @@
     },
     "userCode": "TSC0405",
     "fullName": "Trần Thị Trâm Anh",
-    "citizenId": "092300005672"
+    "citizenId": "092300005672",
+    "form": {
+      "$oid": "688d852224cf1a6d068198ba"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:25:22.290Z"
+    }
   },
   {
     "_id": {
@@ -743,7 +767,13 @@
     },
     "userCode": "TSC0293",
     "fullName": "Lê Mộng Thường",
-    "citizenId": "093198006442"
+    "citizenId": "093198006442",
+    "form": {
+      "$oid": "688d82e324cf1a6d068198a1"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:15:47.129Z"
+    }
   },
   {
     "_id": {
@@ -751,7 +781,13 @@
     },
     "userCode": "TSC0102",
     "fullName": "Nguyễn Văn Tạo",
-    "citizenId": "096080000101"
+    "citizenId": "096080000101",
+    "form": {
+      "$oid": "688d88c024cf1a6d068198ce"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:40:48.324Z"
+    }
   },
   {
     "_id": {
@@ -937,7 +973,13 @@
     },
     "userCode": "TSC0090",
     "fullName": "Nguyễn Thị Kim Yến",
-    "citizenId": "093191001993"
+    "citizenId": "093191001993",
+    "form": {
+      "$oid": "688d838a24cf1a6d068198ad"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:18:34.757Z"
+    }
   },
   {
     "_id": {
@@ -945,7 +987,13 @@
     },
     "userCode": "TSC0291",
     "fullName": "Võ Minh Thư",
-    "citizenId": "092198007876"
+    "citizenId": "092198007876",
+    "updatedAt": {
+      "$date": "2025-08-02T03:16:54.793Z"
+    },
+    "form": {
+      "$oid": "688d832624cf1a6d068198a9"
+    }
   },
   {
     "_id": {
@@ -953,7 +1001,13 @@
     },
     "userCode": "TSC0750",
     "fullName": "Lưu Thị Ngọc Lợi",
-    "citizenId": "089194019586"
+    "citizenId": "089194019568",
+    "form": {
+      "$oid": "688d831f24cf1a6d068198a5"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:16:47.580Z"
+    }
   },
   {
     "_id": {
@@ -1029,7 +1083,13 @@
     },
     "userCode": "TSC0157",
     "fullName": "Phạm Hữu Trí",
-    "citizenId": "089092023271"
+    "citizenId": "089092023271",
+    "form": {
+      "$oid": "688d839324cf1a6d068198b1"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:18:43.193Z"
+    }
   },
   {
     "_id": {
@@ -1129,7 +1189,13 @@
     },
     "userCode": "TSC0143",
     "fullName": "Nguyễn Văn Nam",
-    "citizenId": "092068004514"
+    "citizenId": "092068004514",
+    "form": {
+      "$oid": "688f30cd24cf1a6d068198f8"
+    },
+    "updatedAt": {
+      "$date": "2025-08-03T09:50:05.869Z"
+    }
   },
   {
     "_id": {
@@ -1189,7 +1255,13 @@
     },
     "userCode": "TSC0121",
     "fullName": "Đào Hoàng Phong",
-    "citizenId": "094092007877"
+    "citizenId": "094092007877",
+    "form": {
+      "$oid": "688ebc7024cf1a6d068198ee"
+    },
+    "updatedAt": {
+      "$date": "2025-08-03T01:33:36.025Z"
+    }
   },
   {
     "_id": {
@@ -1331,7 +1403,13 @@
     },
     "userCode": "TSC0605",
     "fullName": "Trần Văn Hậu",
-    "citizenId": "089200012923"
+    "citizenId": "089200012923",
+    "form": {
+      "$oid": "688d892124cf1a6d068198d2"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:42:25.648Z"
+    }
   },
   {
     "_id": {
@@ -1355,7 +1433,13 @@
     },
     "userCode": "TSC0219",
     "fullName": "Nguyễn Đức Thành",
-    "citizenId": "044084008989"
+    "citizenId": "044084008989",
+    "form": {
+      "$oid": "688d852524cf1a6d068198be"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:25:25.097Z"
+    }
   },
   {
     "_id": {
@@ -1715,7 +1799,13 @@
     },
     "userCode": "TSC0210",
     "fullName": "Dương Quốc Thắng",
-    "citizenId": "092088002613"
+    "citizenId": "092088002613",
+    "form": {
+      "$oid": "688d87c324cf1a6d068198ca"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:36:35.453Z"
+    }
   },
   {
     "_id": {
@@ -1723,7 +1813,13 @@
     },
     "userCode": "TSC0646",
     "fullName": "Nguyễn Minh Toàn",
-    "citizenId": "092200007517"
+    "citizenId": "092200007517",
+    "form": {
+      "$oid": "688d906424cf1a6d068198e2"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T04:13:24.808Z"
+    }
   },
   {
     "_id": {
@@ -1811,7 +1907,13 @@
     },
     "userCode": "TSC0329",
     "fullName": "Tô Văn Tiến",
-    "citizenId": "084094001085"
+    "citizenId": "084094001085",
+    "form": {
+      "$oid": "688d8c1524cf1a6d068198d6"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:55:01.764Z"
+    }
   },
   {
     "_id": {
@@ -2083,7 +2185,13 @@
     },
     "userCode": "TSC0336",
     "fullName": "Nguyễn Ngọc Huy",
-    "citizenId": "093201000591"
+    "citizenId": "093201000591",
+    "form": {
+      "$oid": "688d813d24cf1a6d0681988e"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:08:45.420Z"
+    }
   },
   {
     "_id": {
@@ -2091,7 +2199,13 @@
     },
     "userCode": "TSC0342",
     "fullName": "Huỳnh Lâm Thọ",
-    "citizenId": "092092002015"
+    "citizenId": "092092002015",
+    "form": {
+      "$oid": "688d8de424cf1a6d068198da"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T04:02:44.952Z"
+    }
   },
   {
     "_id": {
@@ -2311,7 +2425,13 @@
     },
     "userCode": "TSC0253",
     "fullName": "Nguyễn Hoàng Giang",
-    "citizenId": "092094002992"
+    "citizenId": "092094002992",
+    "form": {
+      "$oid": "688d876d24cf1a6d068198c6"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:35:09.126Z"
+    }
   },
   {
     "_id": {
@@ -2479,7 +2599,13 @@
     },
     "userCode": "TSC0407",
     "fullName": "Lê Văn Tâm",
-    "citizenId": "092095012098"
+    "citizenId": "092095012098",
+    "form": {
+      "$oid": "688d854424cf1a6d068198c2"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:25:56.519Z"
+    }
   },
   {
     "_id": {
@@ -2929,7 +3055,13 @@
     },
     "userCode": "TSC0184",
     "fullName": "Phạm Thành Nhân",
-    "citizenId": "092091002171"
+    "citizenId": "092091002171",
+    "form": {
+      "$oid": "688eb55824cf1a6d068198ea"
+    },
+    "updatedAt": {
+      "$date": "2025-08-03T01:03:20.655Z"
+    }
   },
   {
     "_id": {
@@ -2985,7 +3117,13 @@
     },
     "userCode": "TSC0146",
     "fullName": "Hồ Văn Tuấn",
-    "citizenId": "026071000965"
+    "citizenId": "026071000965",
+    "form": {
+      "$oid": "689015a924cf1a6d06819900"
+    },
+    "updatedAt": {
+      "$date": "2025-08-04T02:06:33.349Z"
+    }
   },
   {
     "_id": {
@@ -3015,7 +3153,13 @@
     },
     "userCode": "TSC0609",
     "fullName": "Phan Tấn Thiện",
-    "citizenId": "082073016679"
+    "citizenId": "082073016679",
+    "form": {
+      "$oid": "688ded1f24cf1a6d068198e6"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T10:49:03.559Z"
+    }
   },
   {
     "_id": {
@@ -3047,7 +3191,13 @@
     },
     "userCode": "TSC0589",
     "fullName": "Huỳnh Hữu Bình An",
-    "citizenId": "092099000992"
+    "citizenId": "092099000992",
+    "form": {
+      "$oid": "688f4f8024cf1a6d068198fc"
+    },
+    "updatedAt": {
+      "$date": "2025-08-03T12:01:04.878Z"
+    }
   },
   {
     "_id": {
@@ -3185,7 +3335,13 @@
     },
     "userCode": "TSC0056",
     "fullName": "Nguyễn Văn Chính",
-    "citizenId": "024089011525"
+    "citizenId": "024089011525",
+    "form": {
+      "$oid": "688f2d7c24cf1a6d068198f4"
+    },
+    "updatedAt": {
+      "$date": "2025-08-03T09:35:56.905Z"
+    }
   },
   {
     "_id": {
@@ -3293,7 +3449,13 @@
     },
     "userCode": "TSC0870",
     "fullName": "Trần Công Danh",
-    "citizenId": "093096005305"
+    "citizenId": "093096005305",
+    "form": {
+      "$oid": "688d81e924cf1a6d06819897"
+    },
+    "updatedAt": {
+      "$date": "2025-08-02T03:11:37.595Z"
+    }
   },
   {
     "_id": {
@@ -3379,7 +3541,13 @@
     },
     "userCode": "TSC0103",
     "fullName": "Nguyễn Quốc Triệu",
-    "citizenId": "015083005422"
+    "citizenId": "015083005422",
+    "form": {
+      "$oid": "6890219b24cf1a6d06819904"
+    },
+    "updatedAt": {
+      "$date": "2025-08-04T02:57:31.326Z"
+    }
   },
   {
     "_id": {
